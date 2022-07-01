@@ -53,7 +53,7 @@ DEFAULT_REQUEST_HEADERS = {
         'referer': 'https://dhxy.cbg.163.com/cgi/mweb/pl?server_pay_type=1&view_loc=equip_list',
         'accept-encoding': "gzip, deflate, br",
         'accept-language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
-        'Cookie': '_ntes_nnid=822c3b34d4bff19239dbd18946415de1,1629528567510; _ntes_nuid=822c3b34d4bff19239dbd18946415de1; fingerprint=hs8K6IlJhnWojeIqTDM8tFDj; _flow_group=g5; NTES_YD_PASSPORT=CT4srApOtFGTtq1TXvFb8KGfBEWvkVOnyhXW28LDu4b3Mmy6MT5QSOHtzWpuwpK3b3u1xsVGeQE7RQH_qULKEiSOtJ8dQ438aLh7qZnnYKdiChUPS8HG9lJFjH9wwHbfaaKtAnSZm4PHJHCuGQdmb5XG.rlBw0A3MA9lAng.DLLREDdZsdhnEoqwD3zqGtBgk4ky.ld5_FjdDmH0WRkRwj6Rf; P_INFO=18876912016|1655102900|1|cbg|00&99|null&null&null#sic&510100#10#0|&0|null|18876912016; trace_session_id=01818038-C4AD-C0AC-9E90-3A5A78D305EE; _external_mark=www.baidu.com; urs_share_login_token=yd.74b14ba2ab1f42b18@163.com$fac907033765687486ace79a5ee3ffdb; urs_share_login_token_h5=yd.74b14ba2ab1f42b18@163.com$fac907033765687486ace79a5ee3ffdb; reco_sid=ItC66DhtseP2T5XUKNPFIy4qDv_q8LaRHG0UE7cI; NTES_YD_SESS=XhPIzJkdJQyrRzynRI8AYqfE_8OIL75S7jSTCTusyQnDHglxHydKU41s0Ff8rfoM.M89TONeBK3Xw3MIXJn9ud374UeNo9WQ30502iax1gbOA_JHrADa31GCZ02L52Oxzzm.9P.g65LixyG6QxndMy4hRJ2OXQezH1bvmgMR8MHGJydN1pHcJbh_ngiR0QMPchBs5m1XXOvcJBYJ_0018VHaJ9b8PLTDq; sid=v2.s.5la11Ewa3DF1qj_rXYqT372wihLrSS5HzNXDHYZn2zM0NYpn; login_id=36127a5e-f131-11ec-b9ba-9e48b95a365f; timing_user_id=time_4cNH0gwi1L; _nietop_foot=%u5927%u8BDD%u897F%u6E38%u624B%u6E38%7Cdhxy.163.com; is_log_active_stat=1'
+        'Cookie': '_ntes_nnid=822c3b34d4bff19239dbd18946415de1,1629528567510; _ntes_nuid=822c3b34d4bff19239dbd18946415de1; fingerprint=hs8K6IlJhnWojeIqTDM8tFDj; _flow_group=g5; P_INFO=18876912016|1655102900|1|cbg|00&99|null&null&null#sic&510100#10#0|&0|null|18876912016; trace_session_id=01818038-C4AD-C0AC-9E90-3A5A78D305EE; _external_mark=www.baidu.com; urs_share_login_token=yd.74b14ba2ab1f42b18@163.com$fac907033765687486ace79a5ee3ffdb; urs_share_login_token_h5=yd.74b14ba2ab1f42b18@163.com$fac907033765687486ace79a5ee3ffdb; reco_sid=ItC66DhtseP2T5XUKNPFIy4qDv_q8LaRHG0UE7cI; NTES_YD_SESS=XhPIzJkdJQyrRzynRI8AYqfE_8OIL75S7jSTCTusyQnDHglxHydKU41s0Ff8rfoM.M89TONeBK3Xw3MIXJn9ud374UeNo9WQ30502iax1gbOA_JHrADa31GCZ02L52Oxzzm.9P.g65LixyG6QxndMy4hRJ2OXQezH1bvmgMR8MHGJydN1pHcJbh_ngiR0QMPchBs5m1XXOvcJBYJ_0018VHaJ9b8PLTDq; timing_user_id=time_4cNH0gwi1L; _nietop_foot=%u5927%u8BDD%u897F%u6E38%u624B%u6E38%7Cdhxy.163.com; is_log_active_stat=1; sid=v2.s.F_oPnXW_IfkFR4vO_OL4j0755vAc5gggJXqMpL5qjCPFtDYL; login_id=c5acfaf8-f360-11ec-9403-e7d5dbc4db4c'
 }
 
 # Enable or disable spider middlewares
@@ -64,9 +64,9 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-DOWNLOADER_MIDDLEWARES = {
-   'xiyou.middlewares.XiyouDownloaderMiddleware': 543,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#    'xiyou.middlewares.XiyouDownloaderMiddleware': 543,
+# }
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html

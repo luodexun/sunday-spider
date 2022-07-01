@@ -1,0 +1,1117 @@
+[
+  {
+    "status": 1,
+    "server_time": 1656036303496,
+    "order_field": "selling_time",
+    "status_code": "OK",
+    "order_headers": [
+      {
+        "field": "selling_time",
+        "direction": [
+          "DESC"
+        ],
+        "name": "\u6700\u65b0"
+      },
+      {
+        "field": "recommd",
+        "direction": [],
+        "name": "\u4eba\u6c14\u63a8\u8350"
+      },
+      {
+        "field": "collect_num",
+        "direction": [
+          "DESC"
+        ],
+        "name": "\u6536\u85cf"
+      },
+      {
+        "field": "price",
+        "direction": [
+          "DESC",
+          "ASC"
+        ],
+        "name": "\u4ef7\u683c"
+      }
+    ],
+    "order_direction": "DESC",
+    "paging": {
+      "is_last_page": false
+    },
+    "result": [
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3111",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 74,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-03-23 14:36:24",
+        "level_desc": "3\u8f6c181\u7ea7",
+        "highlights": [
+          "\u73cd\u7a00\u795e\u517d",
+          "3\u4ef6\u56db\u9636\u4ed9\u5668"
+        ],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5730\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a114430 \u4ed9\u56684\u4ef6 \u73cd\u7a001\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c181\u7ea7",
+          "highlights": [
+            "\u73cd\u7a00\u795e\u517d",
+            "3\u4ef6\u56db\u9636\u4ed9\u5668"
+          ],
+          "desc_sumup": "\u603b\u4fee\u4e3a114430 \u4ed9\u56684\u4ef6 \u73cd\u7a001\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a114430",
+            "\u4ed9\u56684\u4ef6",
+            "\u73cd\u7a001\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a114430 \u4ed9\u56684\u4ef6 \u73cd\u7a001\u53ea",
+          "birth_place": "3111",
+          "format_equip_name": "\u4e91\u4e2d\u541b",
+          "icon": "/game_res/touxiang/2034.png"
+        },
+        "equip_type": "1",
+        "price": 490000,
+        "server_name": "\u91d1\u6a3d\u660e\u6708(\u9010\u9e7f\u5929\u4e0b)",
+        "equip_level": 3181,
+        "expire_remain_seconds": 1209590,
+        "serverid": 89,
+        "diy_desc": "",
+        "icon": "/game_res/touxiang/2034.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202203181501816-89-JG4X2GDW0GWRX",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202203221401813-89-U6XBXGJL15J16",
+        "allow_bargain": false,
+        "position": 0,
+        "format_equip_name": "\u4e91\u4e2d\u541b",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3062",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 8,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-21 11:34:50",
+        "level_desc": "3\u8f6c182\u7ea7",
+        "highlights": [
+          "\u73cd\u7a00\u795e\u517d",
+          "\u7ec8\u6781\u6280\u80fd"
+        ],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u4eba\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a109280 \u73cd\u7a001\u53ea \u7ec8\u67811\u4e2a",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c182\u7ea7",
+          "highlights": [
+            "\u73cd\u7a00\u795e\u517d",
+            "\u7ec8\u6781\u6280\u80fd"
+          ],
+          "desc_sumup": "\u603b\u4fee\u4e3a109280 \u73cd\u7a001\u53ea \u7ec8\u67811\u4e2a",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a109280",
+            "\u73cd\u7a001\u53ea",
+            "\u7ec8\u67811\u4e2a"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a109280 \u73cd\u7a001\u53ea \u7ec8\u67811\u4e2a",
+          "birth_place": "3062",
+          "format_equip_name": "\u796d\u5251\u9b42",
+          "icon": "/game_res/touxiang/4007.png"
+        },
+        "equip_type": "1",
+        "price": 720000,
+        "server_name": "\u83ba\u6b4c\u71d5\u821e(\u9526\u7ee3\u6cb3\u5c71)",
+        "equip_level": 3182,
+        "expire_remain_seconds": 1209563,
+        "serverid": 75,
+        "diy_desc": "\u5b50\u865a\u5e74\uff0c\u7eaf\u767d\u8272\u767d\u9e64",
+        "icon": "/game_res/touxiang/4007.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206171101816-75-IY68UF5LFVKBI",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206201101813-75-TO71S8FPZ1LF2",
+        "allow_bargain": false,
+        "position": 1,
+        "format_equip_name": "\u796d\u5251\u9b42",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3106",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 0,
+        "pass_fair_show": 0,
+        "fair_show_end_time": "2022-06-25 10:04:19",
+        "level_desc": "3\u8f6c181\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5730\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a114594 \u795e\u517d1\u53ea \u7ec8\u67811\u4e2a",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c181\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a114594 \u795e\u517d1\u53ea \u7ec8\u67811\u4e2a",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a114594",
+            "\u795e\u517d1\u53ea",
+            "\u7ec8\u67811\u4e2a"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a114594 \u795e\u517d1\u53ea \u7ec8\u67811\u4e2a",
+          "birth_place": "3106",
+          "format_equip_name": "\u5a9a\u7075\u72d0",
+          "icon": "/game_res/touxiang/3016.png"
+        },
+        "equip_type": "1",
+        "price": 105000,
+        "server_name": "\u91d1\u6a3d\u660e\u6708(\u6545\u5251\u60c5\u6df1)",
+        "equip_level": 3181,
+        "expire_remain_seconds": 1295955,
+        "serverid": 89,
+        "diy_desc": "",
+        "icon": "/game_res/touxiang/3016.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206210901816-89-DLIPGGAEZVUUV",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202206241001813-89-MNBUQ333LS1BQ",
+        "allow_bargain": false,
+        "position": 2,
+        "format_equip_name": "\u5a9a\u7075\u72d0",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3258",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 8,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-24 02:25:48",
+        "level_desc": "3\u8f6c150\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": true,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5730\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a117694 \u4ed9\u56684\u4ef6 \u795e\u517d1\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c150\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a117694 \u4ed9\u56684\u4ef6 \u795e\u517d1\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a117694",
+            "\u4ed9\u56684\u4ef6",
+            "\u795e\u517d1\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a117694 \u4ed9\u56684\u4ef6 \u795e\u517d1\u53ea",
+          "birth_place": "3258",
+          "format_equip_name": "\u591c\u6eaa\u7075",
+          "icon": "/game_res/touxiang/4008.png"
+        },
+        "equip_type": "1",
+        "price": 340000,
+        "server_name": "\u9c9c\u8863\u6012\u9a6c(\u7eb5\u6b4c\u957f\u5b89)",
+        "equip_level": 3150,
+        "expire_remain_seconds": 1209552,
+        "serverid": 207,
+        "diy_desc": "",
+        "icon": "/game_res/touxiang/4008.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206171101816-207-KYNC76TYFV7X",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202206230201813-207-NKJPWXDNX2JV",
+        "allow_bargain": true,
+        "position": 3,
+        "format_equip_name": "\u591c\u6eaa\u7075",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3299",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 2,
+        "pass_fair_show": 1,
+        "diy_desc_sellpoint": [
+          [
+            "1.8\u4ebf\u94f6\u4e24",
+            "\u94f6\u4e24",
+            "1.8\u4ebf"
+          ],
+          [
+            "10\u5b9d\u77f3\u53cc\u654f\u6377\u4e8c\u9636\u4ed9\u5668\u654f\u978b",
+            "\u978b\u5b50",
+            "10\u5b9d\u77f3\u53cc\u654f\u6377\u4e8c\u9636\u4ed9\u5668\u654f\u978b"
+          ],
+          [
+            "1\u4e2a\u9690\u8eab\u53ec\u5524\u517d",
+            "\u9690\u8eab\u53ec\u5524\u517d",
+            "1\u4e2a"
+          ],
+          [
+            "\u9f99\u9a6c\u7b493\u53ea\u7279\u6b8a\u53ec\u5524\u517d",
+            "\u7279\u6b8a\u53ec\u5524\u517d",
+            "3\u53ea"
+          ],
+          [
+            "\u53cc\u654f\u6377\u5934\u76d4",
+            "\u5934\u76d4",
+            "\u53cc\u654f\u6377"
+          ],
+          [
+            "\u6ee1\u6210\u957f\u5750\u9a91",
+            "\u5750\u9a91",
+            "\u6ee1\u6210\u957f"
+          ]
+        ],
+        "fair_show_end_time": "2022-06-24 09:52:02",
+        "level_desc": "2\u8f6c127\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u4eba\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a61959 \u4ed9\u56681\u4ef6 \u5e2e\u4fee44\u7ea7",
+        "status": 2,
+        "other_info": {
+          "level_desc": "2\u8f6c127\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a61959 \u4ed9\u56681\u4ef6 \u5e2e\u4fee44\u7ea7",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a61959",
+            "\u4ed9\u56681\u4ef6",
+            "\u5e2e\u4fee44\u7ea7"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a61959 \u4ed9\u56681\u4ef6 \u5e2e\u4fee44\u7ea7",
+          "birth_place": "3299",
+          "format_equip_name": "\u9006\u5929\u9b54",
+          "icon": "/game_res/touxiang/3015.png"
+        },
+        "equip_type": "1",
+        "price": 65000,
+        "server_name": "2022",
+        "equip_level": 2127,
+        "expire_remain_seconds": 1209551,
+        "serverid": 244,
+        "diy_desc": "\u4e8c\u9636\u7537\u9b54\uff0c\u88f8\u654f\u4e00\u5343\u4e94\uff08\u65e0\uff09\u914d\u9970[#1.8\u4ebf\u94f6\u4e24#][#10\u5b9d\u77f3\u53cc\u654f\u6377\u4e8c\u9636\u4ed9\u5668\u654f\u978b#][#1\u4e2a\u9690\u8eab\u53ec\u5524\u517d#][#\u9f99\u9a6c\u7b493\u53ea\u7279\u6b8a\u53ec\u5524\u517d#][#\u53cc\u654f\u6377\u5934\u76d4#][#\u6ee1\u6210\u957f\u5750\u9a91#]",
+        "icon": "/game_res/touxiang/3015.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206200001816-244-BMI6UN5AJYT5",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206230901813-244-FKXTARYFP5WW",
+        "allow_bargain": false,
+        "position": 4,
+        "format_equip_name": "\u9006\u5929\u9b54",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3293",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 0,
+        "pass_fair_show": 0,
+        "fair_show_end_time": "2022-06-25 10:04:03",
+        "level_desc": "3\u8f6c129\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": true,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u4eba\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a96775 \u4ed9\u56683\u4ef6 \u795e\u51752\u4ef6",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c129\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a96775 \u4ed9\u56683\u4ef6 \u795e\u51752\u4ef6",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a96775",
+            "\u4ed9\u56683\u4ef6",
+            "\u795e\u51752\u4ef6"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a96775 \u4ed9\u56683\u4ef6 \u795e\u51752\u4ef6",
+          "birth_place": "3293",
+          "format_equip_name": "\u795e\u5929\u5175",
+          "icon": "/game_res/touxiang/2003.png"
+        },
+        "equip_type": "1",
+        "price": 225000,
+        "server_name": "\u4e00\u9e23\u60ca\u4eba(\u90bb\u91cc\u5343\u5bb6)",
+        "equip_level": 3129,
+        "expire_remain_seconds": 1295939,
+        "serverid": 238,
+        "diy_desc": "",
+        "icon": "/game_res/touxiang/2003.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206191801816-238-YWCU2HC4NVQQ",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206241001813-238-VAWWWTCNC0YZ",
+        "allow_bargain": true,
+        "position": 5,
+        "format_equip_name": "\u795e\u5929\u5175",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3229",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 2,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-20 19:42:52",
+        "level_desc": "3\u8f6c142\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5730\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a81037 \u5e2e\u4fee58\u7ea7 \u7279\u6b8a4\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c142\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a81037 \u5e2e\u4fee58\u7ea7 \u7279\u6b8a4\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a81037",
+            "\u5e2e\u4fee58\u7ea7",
+            "\u7279\u6b8a4\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a81037 \u5e2e\u4fee58\u7ea7 \u7279\u6b8a4\u53ea",
+          "birth_place": "3229",
+          "format_equip_name": "\u71d5\u5c71\u96ea",
+          "icon": "/game_res/touxiang/1012.png"
+        },
+        "equip_type": "1",
+        "price": 27000,
+        "server_name": "\u8c37\u58d1\u5170\u829d(\u60c5\u6bd4\u91d1\u575a)",
+        "equip_level": 3142,
+        "expire_remain_seconds": 1209507,
+        "serverid": 177,
+        "diy_desc": "\u51b0\u51cc\u7fc5\u8180\uff0c\u4e07\u7269\u751f\u7279\u6548\u3002\u8fd9\u4e24\u4e0a\u6e38\u620f\u67e5\u770b\u3002\u67d3\u8272\u65f6\u88c5\uff0c\u6f02\u4eae\u4e00\u7b14\u3002\u6781\u54c1\u5b69\u5b50\u3002",
+        "icon": "/game_res/touxiang/1012.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206161801816-177-IQ2QHGCPMDUP",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206191901813-177-RMTQPCDJ9H3X",
+        "allow_bargain": false,
+        "position": 6,
+        "format_equip_name": "\u71d5\u5c71\u96ea",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3287",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 2,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-23 20:14:16",
+        "level_desc": "3\u8f6c128\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": true,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5929\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a91681 \u4ed9\u56683\u4ef6 \u795e\u51751\u4ef6",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c128\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a91681 \u4ed9\u56683\u4ef6 \u795e\u51751\u4ef6",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a91681",
+            "\u4ed9\u56683\u4ef6",
+            "\u795e\u51751\u4ef6"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a91681 \u4ed9\u56683\u4ef6 \u795e\u51751\u4ef6",
+          "birth_place": "3287",
+          "format_equip_name": "\u864e\u5934\u602a",
+          "icon": "/game_res/touxiang/3005.png"
+        },
+        "equip_type": "1",
+        "price": 150000,
+        "server_name": "\u516d\u516d\u5927\u987a(\u9ad8\u5c71\u666f\u884c)",
+        "equip_level": 3128,
+        "expire_remain_seconds": 1209502,
+        "serverid": 229,
+        "diy_desc": "\u4e09\u9636\u978b\uff0c\u4e8c\u9636\u94fe\uff0c\u516b\u9690\u8eab \u6210\u54c1\u53f7 \u4e0a\u624b\u53ef\u73a9",
+        "icon": "/game_res/touxiang/3005.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206191501816-229-ZF31W5OBBI8K",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202206222001813-229-XYMW20WAYVFK",
+        "allow_bargain": true,
+        "position": 7,
+        "format_equip_name": "\u864e\u5934\u602a",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "2531",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 2,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-18 16:47:59",
+        "level_desc": "3\u8f6c169\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5929\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a66390 \u795e\u51752\u4ef6 \u5e2e\u4fee68\u7ea7",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c169\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a66390 \u795e\u51752\u4ef6 \u5e2e\u4fee68\u7ea7",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a66390",
+            "\u795e\u51752\u4ef6",
+            "\u5e2e\u4fee68\u7ea7"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a66390 \u795e\u51752\u4ef6 \u5e2e\u4fee68\u7ea7",
+          "birth_place": "2531",
+          "format_equip_name": "\u83ab\u89e3\u8bed",
+          "icon": "/game_res/touxiang/1132.png"
+        },
+        "equip_type": "1",
+        "price": 20000,
+        "server_name": "\u4ed9\u68a6\u5947\u7f18(\u6717\u6708\u6e05\u98ce)",
+        "equip_level": 3169,
+        "expire_remain_seconds": 1209497,
+        "serverid": 3,
+        "diy_desc": "\u5bb6\u56ed\u53f7 \u98ce\u6c34\u503c\u516d\u516b\u4e03\uff0c \u62fc\u5bb6\u56ed\u9996\u9009",
+        "icon": "/game_res/touxiang/1132.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206141401816-3-WOMJEQMYXJUBX6",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206171601813-3-OYAONXIA9NJLNH",
+        "allow_bargain": false,
+        "position": 8,
+        "format_equip_name": "\u83ab\u89e3\u8bed",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "1581",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 9,
+        "pass_fair_show": 0,
+        "diy_desc_sellpoint": [
+          [
+            "16\u5b9d\u77f3\u4e09\u514b\u6728\u4e94\u9636\u4ed9\u5668\u6b66\u5668",
+            "\u6b66\u5668",
+            "16\u5b9d\u77f3\u4e09\u514b\u6728\u4e94\u9636\u4ed9\u5668"
+          ],
+          [
+            "\u514b\u6728194.1",
+            "\u514b\u6728",
+            "194.1"
+          ],
+          [
+            "15\u5b9d\u77f3\u4e09\u9636\u4ed9\u5668\u5934\u76d4",
+            "\u5934\u76d4",
+            "15\u5b9d\u77f3\u4e09\u9636\u4ed9\u5668"
+          ],
+          [
+            "2\u53ea\u795e\u517d",
+            "\u795e\u517d",
+            "2\u53ea"
+          ],
+          [
+            "\u4e94\u9636\u795e\u5175\u9879\u94fe",
+            "\u9879\u94fe",
+            "\u4e94\u9636\u795e\u5175"
+          ],
+          [
+            "4\u4e2a\u9690\u8eab\u53ec\u5524\u517d",
+            "\u9690\u8eab\u53ec\u5524\u517d",
+            "4\u4e2a"
+          ],
+          [
+            "3\u4ef6\u65f6\u88c5",
+            "\u65f6\u88c5",
+            "3\u4ef6"
+          ]
+        ],
+        "fair_show_end_time": "2022-06-24 18:36:32",
+        "level_desc": "3\u8f6c183\u7ea7",
+        "highlights": [
+          "1\u4ef6\u4e94\u9636\u4ed9\u5668"
+        ],
+        "kindid": 1,
+        "allow_urs_bargain": true,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5730\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a134514 \u4ed9\u56682\u4ef6 \u795e\u517d2\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c183\u7ea7",
+          "highlights": [
+            "1\u4ef6\u4e94\u9636\u4ed9\u5668"
+          ],
+          "desc_sumup": "\u603b\u4fee\u4e3a134514 \u4ed9\u56682\u4ef6 \u795e\u517d2\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a134514",
+            "\u4ed9\u56682\u4ef6",
+            "\u795e\u517d2\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a134514 \u4ed9\u56682\u4ef6 \u795e\u517d2\u53ea",
+          "birth_place": "1581",
+          "format_equip_name": "\u795e\u5929\u5175",
+          "icon": "/game_res/touxiang/2003.png"
+        },
+        "equip_type": "1",
+        "price": 420000,
+        "server_name": "\u4e0e\u6b4c\u540c\u884c(\u9f9f\u9f99\u9e9f\u51e4)",
+        "equip_level": 3183,
+        "expire_remain_seconds": 1240288,
+        "serverid": 20,
+        "diy_desc": "[#16\u5b9d\u77f3\u4e09\u514b\u6728\u4e94\u9636\u4ed9\u5668\u6b66\u5668#][#\u514b\u6728194.1#][#15\u5b9d\u77f3\u4e09\u9636\u4ed9\u5668\u5934\u76d4#][#2\u53ea\u795e\u517d#][#\u4e94\u9636\u795e\u5175\u9879\u94fe#][#4\u4e2a\u9690\u8eab\u53ec\u5524\u517d#][#3\u4ef6\u65f6\u88c5#]",
+        "icon": "/game_res/touxiang/2003.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206201501816-20-XYRMFP7SUYWCJ",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202206231801813-20-CFAA5NHRACKNM",
+        "allow_bargain": true,
+        "position": 9,
+        "format_equip_name": "\u795e\u5929\u5175",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "1004",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 9,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-18 21:34:32",
+        "level_desc": "3\u8f6c183\u7ea7",
+        "highlights": [
+          "1\u4ef6\u56db\u9636\u4ed9\u5668"
+        ],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5929\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a128657 \u4ed9\u56682\u4ef6 \u795e\u517d2\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c183\u7ea7",
+          "highlights": [
+            "1\u4ef6\u56db\u9636\u4ed9\u5668"
+          ],
+          "desc_sumup": "\u603b\u4fee\u4e3a128657 \u4ed9\u56682\u4ef6 \u795e\u517d2\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a128657",
+            "\u4ed9\u56682\u4ef6",
+            "\u795e\u517d2\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a128657 \u4ed9\u56682\u4ef6 \u795e\u517d2\u53ea",
+          "birth_place": "1004",
+          "format_equip_name": "\u6b66\u5c0a\u795e",
+          "icon": "/game_res/touxiang/2013.png"
+        },
+        "equip_type": "1",
+        "price": 489000,
+        "server_name": "\u60c5\u7cfb\u4eca\u751f(\u7d2b\u964c\u7ea2\u5c18)",
+        "equip_level": 3183,
+        "expire_remain_seconds": 1209450,
+        "serverid": 21,
+        "diy_desc": "\u5341\u516d\u5b9d\u77f3\u5957\uff0c\u52a0\u5f3a\u540e\u7684\u7b26\u5492\u5973\u5a32\u6700\u9ad8\u63d0\u514b\u516b\u5341\uff0c\u914d\u5408\u6731\u96c0\u76f8\u5f53\u66b4\u529b\uff0c\u6d6a\u6dd8\u6c99\u95ea\u73b0\u51fa\u6765\u626b\u4e00\u7247\uff0c\u8fd8\u6709\u7edd\u7248\u9f99\u5154\uff0c\u837c\u83c1\uff0c\u7edd\u7248\u7d2b\u8272\u798f\u72ac\uff0c\u5927\u7fc5\u8180\u9f99\u9a6c\uff0c\u5750\u9a91\u4e0d\u9519\uff0c\u516b\u9635\u4e0d\u9519",
+        "icon": "/game_res/touxiang/2013.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206142101816-21-UIINOMGRLLXDG",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206172101813-21-WRKNUYLLIF3Y3",
+        "allow_bargain": false,
+        "position": 10,
+        "format_equip_name": "\u6b66\u5c0a\u795e",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3173",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 1,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-05-26 17:08:46",
+        "level_desc": "3\u8f6c167\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": true,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u5929\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a102594 \u4ed9\u56681\u4ef6 \u65e0\u4ef7\u5957",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c167\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a102594 \u4ed9\u56681\u4ef6 \u65e0\u4ef7\u5957",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a102594",
+            "\u4ed9\u56681\u4ef6",
+            "\u65e0\u4ef7\u5957"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a102594 \u4ed9\u56681\u4ef6 \u65e0\u4ef7\u5957",
+          "birth_place": "3173",
+          "format_equip_name": "\u7ea2\u62c2\u5973",
+          "icon": "/game_res/touxiang/1032.png"
+        },
+        "equip_type": "1",
+        "price": 90000,
+        "server_name": "\u8d85\u53e4\u8d8a\u4eca(\u4e91\u6d77\u7ea2\u65e5)",
+        "equip_level": 3167,
+        "expire_remain_seconds": 1209448,
+        "serverid": 146,
+        "diy_desc": "",
+        "icon": "/game_res/touxiang/1032.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202205210701816-146-J5W3GYUR4UKA",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202205251701813-146-OO2NFKGKASOP",
+        "allow_bargain": true,
+        "position": 11,
+        "format_equip_name": "\u7ea2\u62c2\u5973",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "2549",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 3,
+        "pass_fair_show": 0,
+        "fair_show_end_time": "2022-06-25 10:02:24",
+        "level_desc": "3\u8f6c180\u7ea7",
+        "highlights": [],
+        "kindid": 1,
+        "allow_urs_bargain": true,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u9b54\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a101762 \u65e0\u4ef7\u5957 \u795e\u51755\u4ef6",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c180\u7ea7",
+          "highlights": [],
+          "desc_sumup": "\u603b\u4fee\u4e3a101762 \u65e0\u4ef7\u5957 \u795e\u51755\u4ef6",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a101762",
+            "\u65e0\u4ef7\u5957",
+            "\u795e\u51755\u4ef6"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a101762 \u65e0\u4ef7\u5957 \u795e\u51755\u4ef6",
+          "birth_place": "2549",
+          "format_equip_name": "\u9f99\u6218\u5c06",
+          "icon": "/game_res/touxiang/2033.png"
+        },
+        "equip_type": "1",
+        "price": 150000,
+        "server_name": "\u4e03\u5341\u4e8c\u53d8(\u6e56\u5149\u5c71\u8272)",
+        "equip_level": 3180,
+        "expire_remain_seconds": 1295840,
+        "serverid": 27,
+        "diy_desc": "",
+        "icon": "/game_res/touxiang/2033.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202206200801816-27-Z3JEKT3R4JAYQ",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202206241001813-27-IVH1HAKFZLKCX",
+        "allow_bargain": true,
+        "position": 12,
+        "format_equip_name": "\u9f99\u6218\u5c06",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3007",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 9,
+        "pass_fair_show": 1,
+        "fair_show_end_time": "2022-06-06 09:39:43",
+        "level_desc": "3\u8f6c182\u7ea7",
+        "highlights": [
+          "1\u4ef6\u56db\u9636\u4ed9\u5668"
+        ],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u9b54\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a118914 \u4ed9\u56683\u4ef6 \u795e\u517d1\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c182\u7ea7",
+          "highlights": [
+            "1\u4ef6\u56db\u9636\u4ed9\u5668"
+          ],
+          "desc_sumup": "\u603b\u4fee\u4e3a118914 \u4ed9\u56683\u4ef6 \u795e\u517d1\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a118914",
+            "\u4ed9\u56683\u4ef6",
+            "\u795e\u517d1\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a118914 \u4ed9\u56683\u4ef6 \u795e\u517d1\u53ea",
+          "birth_place": "3007",
+          "format_equip_name": "\u900d\u9065\u751f",
+          "icon": "/game_res/touxiang/1001.png"
+        },
+        "equip_type": "1",
+        "price": 294900,
+        "server_name": "\u4e03\u5341\u4e8c\u53d8(\u4e00\u53f6\u77e5\u79cb)",
+        "equip_level": 3182,
+        "expire_remain_seconds": 1209382,
+        "serverid": 27,
+        "diy_desc": "\u5ffd\u6df782\uff0c\u6df7\u7761\u4e24\u5957\uff0c\u9996\u53d1\u8303\u5f0f\uff0c\u9690\u8eab\u51b0\u5757\uff0c\u6781\u54c1\u5b69\u5b50\uff0c\u9a6c\u4e0a16\u5b9d\u77f3\u5957\uff0c\u592b\u590d\u4f55\u6c42",
+        "icon": "/game_res/touxiang/1001.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202205312301816-27-EASHK3RD4EXBA",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 1,
+        "eid": "202206050901813-27-S0PJN0MLH1HB4",
+        "allow_bargain": false,
+        "position": 13,
+        "format_equip_name": "\u900d\u9065\u751f",
+        "game_channel": "netease"
+      },
+      {
+        "storage_type": 4,
+        "tag": "user",
+        "birth_place": "3118",
+        "reco_request_id": "165603630320392Gui",
+        "collect_num": 171,
+        "pass_fair_show": 1,
+        "diy_desc_sellpoint": [
+          [
+            "16\u5b9d\u77f3\u56db\u9636\u4ed9\u5668\u9879\u94fe",
+            "\u9879\u94fe",
+            "16\u5b9d\u77f3\u56db\u9636\u4ed9\u5668"
+          ],
+          [
+            "16.8\u4ebf\u94f6\u4e24",
+            "\u94f6\u4e24",
+            "16.8\u4ebf"
+          ],
+          [
+            "16\u5b9d\u77f3\u56db\u9636\u4ed9\u5668\u6b66\u5668",
+            "\u6b66\u5668",
+            "16\u5b9d\u77f3\u56db\u9636\u4ed9\u5668"
+          ]
+        ],
+        "fair_show_end_time": "2022-05-08 11:16:10",
+        "level_desc": "3\u8f6c181\u7ea7",
+        "highlights": [
+          "4\u4ef6\u56db\u9636\u4ed9\u5668"
+        ],
+        "kindid": 1,
+        "allow_urs_bargain": false,
+        "tag_key": "{\"tag\": \"user\"}",
+        "is_time_server": false,
+        "area_name": "\u9b54\u754c",
+        "desc_sumup_short": "\u603b\u4fee\u4e3a114206 \u4ed9\u56684\u4ef6 \u795e\u517d1\u53ea",
+        "status": 2,
+        "other_info": {
+          "level_desc": "3\u8f6c181\u7ea7",
+          "highlights": [
+            "4\u4ef6\u56db\u9636\u4ed9\u5668"
+          ],
+          "desc_sumup": "\u603b\u4fee\u4e3a114206 \u4ed9\u56684\u4ef6 \u795e\u517d1\u53ea",
+          "basic_attrs": [
+            "\u603b\u4fee\u4e3a114206",
+            "\u4ed9\u56684\u4ef6",
+            "\u795e\u517d1\u53ea"
+          ],
+          "desc_sumup_short": "\u603b\u4fee\u4e3a114206 \u4ed9\u56684\u4ef6 \u795e\u517d1\u53ea",
+          "birth_place": "3118",
+          "format_equip_name": "\u900d\u9065\u751f",
+          "icon": "/game_res/touxiang/1001.png"
+        },
+        "equip_type": "1",
+        "price": 548000,
+        "server_name": "\u5927\u95f9\u5929\u5bab(\u51e4\u51f0\u4e8e\u98de)",
+        "equip_level": 3181,
+        "expire_remain_seconds": 1209351,
+        "serverid": 44,
+        "diy_desc": "\u5e26\u5341\u4e03\u4ebf\u73b0\u91d1\uff0c\u4e94\u5757\u6b66\u5668\u70bc\u5316\uff0c\u53cc\u5ffd\u89c6  \u514b\u6b66\u5668\u6676\u77f3\uff0c\u56db\u9636\u5957\u53cc\u795e\u517d\u65e0\u5fe7\u3002[#16\u5b9d\u77f3\u56db\u9636\u4ed9\u5668\u9879\u94fe#][#16.8\u4ebf\u94f6\u4e24#][#16\u5b9d\u77f3\u56db\u9636\u4ed9\u5668\u6b66\u5668#]",
+        "icon": "/game_res/touxiang/1001.png",
+        "diy_desc_pay_info": {
+          "is_show_agreement": false,
+          "is_need_pay": false,
+          "diy_desc_fee": 0,
+          "is_pay_service": false,
+          "is_show_pay_agreement": false
+        },
+        "game_ordersn": "202205040101816-44-LAJFFSEMFIW3J",
+        "rule": "",
+        "activity_sn": "",
+        "platform_type": 2,
+        "eid": "202205071101813-44-QJ7FPJCC6GAMG",
+        "allow_bargain": false,
+        "position": 14,
+        "format_equip_name": "\u900d\u9065\u751f",
+        "game_channel": "netease"
+      }
+    ],
+    "pager": {
+      "cur_page": 1,
+      "total_pages": 100
+    },
+    "activity_filter_conditions": null
+  },
+
+  {
+    "status": 1,
+    "equip": {
+      "have_collect": false,
+      "seller_roleid": "64076909",
+      "appointed_data": null,
+      "fair_show_poundage_desc": "\uffe50.0",
+      "is_random_draw_period": false,
+      "offsale_then_take_back": false,
+      "unpaid_user_order": null,
+      "product": "dhxy",
+      "equip_desc": "{\"NourishColGrade\": 0, \"AcsryInfo\": [{\"Shape\": 300139, \"Score\": 2791, \"Type\": 17332808, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u65e0\\u4ef7#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u8170\\u5e26#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b\\u3001\\u591c\\u6eaa\\u7075\\u3001\\u5e7d\\u68a6\\u5f71\\u3001\\u955c\\u82b1\\u5f71#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u6c14\\u8840\\u4e0a\\u9650 <cbg_p p=\\\"0.70\\\">+7002</cbg_p>#r#Y\\u7269\\u7406\\u5438\\u6536 <cbg_p p=\\\"0.84\\\">+5.8%</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u91d1 <cbg_p p=\\\"0.89\\\">+13.3%</cbg_p>#r#Y\\u7075\\u6027 <cbg_p p=\\\"0.51\\\">+10</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf#r#P\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u65e0\\u4ef7\", \"Rarity\": 4}, {\"Shape\": 300140, \"Score\": 2407, \"Type\": 17339908, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u65e0\\u4ef7#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u4ed9\\u3001\\u9b3c#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u547d\\u4e2d\\u7387 <cbg_p p=\\\"0.77\\\">+5.3%</cbg_p>#r#Y\\u95ea\\u8eb2\\u7387 <cbg_p p=\\\"0.87\\\">+6.0%</cbg_p>#r#Y\\u706b\\u7cfb\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.79\\\">+11.7%</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u91d1 <cbg_p p=\\\"0.73\\\">+10.9%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf#r#P\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u65e0\\u4ef7\", \"Rarity\": 4}, {\"Shape\": 300135, \"Score\": 2379, \"Type\": 17339608, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u65e0\\u4ef7#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u62ab\\u98ce#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u4ed9\\u3001\\u9b3c#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u7269\\u7406\\u5438\\u6536 <cbg_p p=\\\"0.73\\\">+5.1%</cbg_p>#r#Y\\u8fde\\u51fb\\u7387 <cbg_p p=\\\"0.79\\\">+5.5%</cbg_p>#r#Y\\u7834\\u9632\\u7a0b\\u5ea6 <cbg_p p=\\\"0.86\\\">+6.0%</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u91d1 <cbg_p p=\\\"0.97\\\">+14.6%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf#r#P\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u65e0\\u4ef7\", \"Rarity\": 4}, {\"Shape\": 300140, \"Score\": 2430, \"Type\": 17339908, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u65e0\\u4ef7#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u4ed9\\u3001\\u9b3c#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u547d\\u4e2d\\u7387 <cbg_p p=\\\"0.88\\\">+6.1%</cbg_p>#r#Y\\u7269\\u7406\\u5438\\u6536 <cbg_p p=\\\"0.89\\\">+6.2%</cbg_p>#r#Y\\u706b\\u7cfb\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.76\\\">+11.4%</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u91d1 <cbg_p p=\\\"0.75\\\">+11.2%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf#r#P\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u65e0\\u4ef7\", \"Rarity\": 4}, {\"Shape\": 300137, \"Score\": 2855, \"Type\": 17332708, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u65e0\\u4ef7#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6302\\u4ef6#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b\\u3001\\u591c\\u6eaa\\u7075\\u3001\\u5e7d\\u68a6\\u5f71\\u3001\\u955c\\u82b1\\u5f71#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u6cd5\\u529b\\u4e0a\\u9650 <cbg_p p=\\\"0.59\\\">+5928</cbg_p>#r#Y\\u7075\\u6027 <cbg_p p=\\\"0.67\\\">+13</cbg_p>#r#Y\\u529b\\u91cf <cbg_p p=\\\"0.71\\\">+14</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u91d1 <cbg_p p=\\\"0.99\\\">+14.8%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf#r#P\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u65e0\\u4ef7\", \"Rarity\": 4}], \"HeadWear\": [], \"ActiveChild\": [{\"Force\": 213, \"Name\": \"\\u843d\\u96c1\\u4e36\\u738b\\u662d\\u541b\\u7684\\u5b9d\\u8d1d\", \"AllSkills\": [{\"skill\": 50992, \"rarity\": 1, \"level\": 7}, {\"skill\": 50993, \"rarity\": 1, \"level\": 7}, {\"skill\": 50991, \"rarity\": 1, \"level\": 7}], \"MingPan\": [{\"skill\": 56019, \"level\": 7}, {\"skill\": 56022, \"level\": 7}, {\"skill\": 56015, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 52012, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 0, \"level\": 7}, {\"skill\": 52048, \"level\": 7}], \"FilialPiety\": 10, \"CollectedEnd\": [], \"Fame\": 662, \"Stamina\": 352, \"Shape\": 6160, \"Moral\": 3, \"Rebel\": 9, \"Temperament\": 336, \"Age\": 9, \"Intimacy\": 0, \"Sex\": 1, \"Intellect\": 504, \"AllTmpSkills\": [52046, 52034]}], \"UnActiveSummon\": [{\"FreePoint\": 0, \"HitComboRate\": 42, \"HitCombo\": 3, \"Rei\": 1, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 4480, \"Type\": 10001, \"Agility\": 120, \"Power\": 630, \"Amity\": 98886, \"AscentLevel\": 0, \"FatalRate\": 37, \"InitAttr\": {\"HpInit\": {\"Max\": 35, \"Now\": 28, \"Min\": 1}, \"AtkInit\": {\"Max\": 160, \"Now\": 102, \"Min\": 48}, \"SpeedInit\": {\"Max\": 100, \"Now\": 85, \"Min\": 30}, \"MpInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}}, \"PracticeLevel\": 10, \"Dye\": 2, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"Name\": \"\\u677e\\u9f20\", \"HpMax\": 22140, \"FinalGrowthRateMax\": 1.32, \"Wakan\": 120, \"Atk\": 22322, \"TreasureFlag\": false, \"MpMax\": 19008, \"AllSkills\": [{\"id\": 31101, \"name\": \"\\u5343\\u677e\\u626b\\u5c3e\", \"pos\": 1}, {\"id\": 32105, \"name\": \"\\u5206\\u88c2\\u653b\\u51fb\", \"pos\": 3}, {\"id\": 32109, \"name\": \"\\u5999\\u624b\\u4ec1\\u5fc3\", \"pos\": 2}], \"Basecon\": 120, \"FinalGrowthRate\": 1.32, \"Grade\": 120, \"Soil\": 50, \"CtrlZuoQiSId\": \"\", \"Shape\": 5009, \"Wood\": 50, \"DragonBone\": 0, \"HightGrow\": true, \"Speed\": 270}, {\"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 1, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 6204, \"Type\": 20013, \"Agility\": 120, \"Power\": 120, \"Fire\": 50, \"Amity\": 135214, \"AscentLevel\": 0, \"Water\": 50, \"FatalRate\": 43, \"InitAttr\": {\"HpInit\": {\"Max\": 148, \"Now\": 128, \"Min\": 47}, \"AtkInit\": {\"Max\": 42, \"Now\": 26, \"Min\": 16}, \"SpeedInit\": {\"Max\": 85, \"Now\": 55, \"Min\": 25}, \"MpInit\": {\"Max\": 270, \"Now\": 164, \"Min\": 75}}, \"PracticeLevel\": 8, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"Name\": \"\\u795e\\u7075\", \"HpMax\": 34712, \"FinalGrowthRateMax\": 1.375, \"DisorderDef\": 320, \"Atk\": 4586, \"HitComboRate\": 52, \"MpMax\": 123056, \"AllSkills\": [{\"id\": 31112, \"name\": \"\\u98ce\\u96f7\\u6d8c\\u52a8\", \"pos\": 1}, {\"id\": 32108, \"name\": \"\\u4ed9\\u98ce\\u9053\\u9aa8\", \"pos\": 3}, {\"id\": 32109, \"name\": \"\\u5999\\u624b\\u4ec1\\u5fc3\", \"pos\": 2}, {\"id\": 32217, \"name\": \"\\u9ad8\\u7ea7\\u9752\\u9762\\u7360\\u7259\", \"pos\": 4}], \"Basecon\": 120, \"FinalGrowthRate\": 1.375, \"Grade\": 120, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"Shape\": 6053, \"HitCombo\": 3, \"Wakan\": 630, \"Speed\": 240}, {\"FreePoint\": 0, \"TreasureFlag\": false, \"HitCombo\": 3, \"Rei\": 2, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 6657, \"Type\": 20007, \"Agility\": 102, \"Power\": 102, \"Amity\": 102130, \"AscentLevel\": 0, \"FatalRate\": 37, \"InitAttr\": {\"HpInit\": {\"Max\": 145, \"Now\": 125, \"Min\": 40}, \"AtkInit\": {\"Max\": 18, \"Now\": 15, \"Min\": 1}, \"SpeedInit\": {\"Max\": 66, \"Now\": 44, \"Min\": 20}, \"MpInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}}, \"PracticeLevel\": 29, \"ForgetDef\": 200, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"Name\": \"\\u5f53\\u5eb7\", \"HpMax\": 99045, \"FinalGrowthRateMax\": 1.475, \"DisorderDef\": 800, \"Wakan\": 102, \"Atk\": 3400, \"HitComboRate\": 43, \"MpMax\": 15345, \"AllSkills\": [{\"id\": 31103, \"name\": \"\\u78a7\\u8840\\u4e39\\u5fc3\", \"pos\": 1}, {\"id\": 32124, \"name\": \"\\u95ea\\u73b0\", \"pos\": 2}, {\"id\": 32115, \"name\": \"\\u9057\\u4ea7\", \"pos\": 4}, {\"id\": 32248, \"name\": \"\\u897f\\u5929\\u51c0\\u571f\", \"pos\": 3}], \"Basecon\": 570, \"FinalGrowthRate\": 1.475, \"Gold\": 15, \"Grade\": 102, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"Shape\": 5022, \"ReshockLevel\": 230, \"ReshockRate\": 230, \"Soil\": 85, \"Speed\": 215}, {\"FreePoint\": 0, \"TreasureFlag\": false, \"HitCombo\": 3, \"Rei\": 1, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 7632, \"Type\": 50010, \"Agility\": 106, \"Power\": 106, \"Amity\": 107631, \"AscentLevel\": 0, \"FatalRate\": 38, \"InitAttr\": {\"HpInit\": {\"Max\": 80, \"Now\": 27, \"Min\": 25}, \"AtkInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}, \"SpeedInit\": {\"Max\": 160, \"Now\": 149, \"Min\": 58}, \"MpInit\": {\"Max\": 355, \"Now\": 286, \"Min\": 125}}, \"PracticeLevel\": 3, \"ForgetDef\": 45, \"Dye\": 5, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"Name\": \"\\u8803\\u9c7c\", \"HpMax\": 86856, \"FinalGrowthRateMax\": 1.415, \"DisorderDef\": 45, \"Wakan\": 106, \"Atk\": 3179, \"HitComboRate\": 45, \"MpMax\": 46212, \"AllSkills\": [{\"id\": 31144, \"name\": \"\\u98de\\u73e0\\u6e85\\u7389\", \"pos\": 1}, {\"id\": 32120, \"name\": \"\\u7075\\u7280\\u8bc0\", \"pos\": 2}], \"Basecon\": 560, \"FinalGrowthRate\": 1.415, \"Gold\": 50, \"Grade\": 106, \"DragonBone\": 4, \"CtrlZuoQiSId\": \"\", \"Shape\": 5066, \"Wood\": 50, \"SealDef\": 45, \"Speed\": 360}, {\"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 1, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 6252, \"Type\": 20020, \"Agility\": 120, \"Power\": 120, \"Amity\": 166273, \"AscentLevel\": 0, \"FatalRate\": 47, \"InitAttr\": {\"HpInit\": {\"Max\": 25, \"Now\": 16, \"Min\": 10}, \"AtkInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}, \"SpeedInit\": {\"Max\": 165, \"Now\": 133, \"Min\": 75}, \"MpInit\": {\"Max\": 255, \"Now\": 226, \"Min\": 105}}, \"PracticeLevel\": 9, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"Name\": \"\\u91d1\\u521a\\u4ed9\", \"HpMax\": 21664, \"FinalGrowthRateMax\": 1.375, \"DisorderDef\": 360, \"Atk\": 3960, \"HitComboRate\": 59, \"MpMax\": 130279, \"AllSkills\": [{\"id\": 31120, \"name\": \"\\u7535\\u95ea\\u96f7\\u9e23\", \"pos\": 1}, {\"id\": 32115, \"name\": \"\\u9057\\u4ea7\", \"pos\": 2}, {\"id\": 32234, \"name\": \"\\u56de\\u6e90\", \"pos\": 3}, {\"id\": 32124, \"name\": \"\\u95ea\\u73b0\", \"pos\": 4}], \"Basecon\": 120, \"FinalGrowthRate\": 1.375, \"Gold\": 100, \"Grade\": 120, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"Shape\": 6069, \"HitCombo\": 3, \"Wakan\": 630, \"Speed\": 347}, {\"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 1, \"ZZDesc\": \"#B\\u51fa\\u7c7b\\u62d4\\u8403#n\", \"Gow\": 5303, \"Type\": 20010, \"Agility\": 80, \"Power\": 80, \"Fire\": 60, \"Amity\": 187408, \"AscentLevel\": 0, \"FatalRate\": 50, \"InitAttr\": {\"HpInit\": {\"Max\": 120, \"Now\": 70, \"Min\": 36}, \"AtkInit\": {\"Max\": 175, \"Now\": 131, \"Min\": 55}, \"SpeedInit\": {\"Max\": 12, \"Now\": 3, \"Min\": 1}, \"MpInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}}, \"PracticeLevel\": 9, \"Dye\": 0, \"HitRate\": 980, \"CtrlZuoQiType\": 0, \"Name\": \"\\u96f7\\u9e1f\", \"HpMax\": 52760, \"FinalGrowthRateMax\": 1.375, \"Atk\": 3908, \"HitComboRate\": 64, \"MpMax\": 19092, \"AllSkills\": [{\"id\": 32102, \"name\": \"\\u6e90\\u6cc9\\u4e07\\u659b\", \"pos\": 3}, {\"id\": 32113, \"name\": \"\\u5927\\u4e49\", \"pos\": 1}, {\"id\": 32106, \"name\": \"\\u6148\\u4e4c\\u53cd\\u54fa\", \"pos\": 2}], \"Basecon\": 430, \"FinalGrowthRate\": 1.375, \"Gold\": 40, \"Grade\": 80, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"Shape\": 5041, \"HitCombo\": 3, \"Wakan\": 80, \"Speed\": 114}, {\"FreePoint\": 0, \"TreasureFlag\": false, \"HitCombo\": 3, \"ZZDesc\": \"#B\\u51fa\\u7c7b\\u62d4\\u8403#n\", \"Gow\": 3860, \"Type\": 20021, \"Amity\": 0, \"AscentLevel\": 0, \"InitAttr\": {\"HpInit\": {\"Max\": 135, \"Now\": 85, \"Min\": 1}, \"AtkInit\": {\"Max\": 142, \"Now\": 47, \"Min\": 1}, \"SpeedInit\": {\"Max\": 180, \"Now\": 122, \"Min\": 1}, \"MpInit\": {\"Max\": 134, \"Now\": 84, \"Min\": 1}}, \"PracticeLevel\": 0, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"Name\": \"\\u5c71\\u5996\", \"HpMax\": 85, \"FinalGrowthRateMax\": 1.275, \"Atk\": 47, \"MpMax\": 84, \"AllSkills\": [{\"id\": 0, \"name\": \"\", \"pos\": 1}, {\"id\": 0, \"name\": \"\", \"pos\": 2}], \"FinalGrowthRate\": 1.275, \"Gold\": 30, \"Grade\": 0, \"Soil\": 70, \"CtrlZuoQiSId\": \"\", \"Shape\": 6074, \"Rei\": 0, \"DragonBone\": 0, \"Speed\": 155}], \"Version\": 2, \"ItemFrame\": [{\"Shape\": 300265, \"Score\": 2112, \"Type\": 17332829, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u8170\\u5e26#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u591c\\u6eaa\\u7075\\u3001\\u5e7d\\u68a6\\u5f71\\u3001\\u955c\\u82b1\\u5f71\\u3001\\u9a8a\\u73e0\\u513f\\u3001\\u6728\\u5170\\u884c\\u3001\\u83ab\\u89e3\\u8bed\\u3001\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u6c14\\u8840\\u4e0a\\u9650 <cbg_p p=\\\"0.46\\\">+4602</cbg_p>#r#Y\\u547d\\u4e2d\\u7387 <cbg_p p=\\\"0.40\\\">+2.8%</cbg_p>#r#Y\\u547d\\u4e2d\\u7387 <cbg_p p=\\\"0.37\\\">+2.6%</cbg_p>#r#Y\\u6297\\u706b <cbg_p p=\\\"0.44\\\">+4.3%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300137, \"Score\": 2135, \"Type\": 17332708, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6302\\u4ef6#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b\\u3001\\u591c\\u6eaa\\u7075\\u3001\\u5e7d\\u68a6\\u5f71\\u3001\\u955c\\u82b1\\u5f71#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u6cd5\\u529b\\u4e0a\\u9650 <cbg_p p=\\\"0.49\\\">+4876</cbg_p>#r#Y\\u95ea\\u8eb2\\u7387 <cbg_p p=\\\"0.44\\\">+3.0%</cbg_p>#r#Y\\u7834\\u9632\\u7a0b\\u5ea6 <cbg_p p=\\\"0.36\\\">+2.5%</cbg_p>#r#Y\\u6297\\u6bd2 <cbg_p p=\\\"0.47\\\">+4.7%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300140, \"Score\": 1914, \"Type\": 17339908, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u4ed9\\u3001\\u9b3c#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u7834\\u9632\\u6982\\u7387 <cbg_p p=\\\"0.37\\\">+2.6%</cbg_p>#r#Y\\u6839\\u9aa8 <cbg_p p=\\\"0.45\\\">+9</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u6728 <cbg_p p=\\\"0.40\\\">+6.0%</cbg_p>#r#Y\\u529b\\u91cf <cbg_p p=\\\"0.35\\\">+7</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300266, \"Score\": 2057, \"Type\": 17339929, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u9b3c\\u3001\\u9f99\\u3001\\u4ed9#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u7834\\u9632\\u7a0b\\u5ea6 <cbg_p p=\\\"0.45\\\">+3.1%</cbg_p>#r#Y\\u654f\\u6377 <cbg_p p=\\\"0.48\\\">+9</cbg_p>#r#Y\\u4e09\\u5c38\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.47\\\">+7.1%</cbg_p>#r#Y\\u6c14\\u8840\\u767e\\u5206\\u6bd4 <cbg_p p=\\\"0.38\\\">+1.9%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300266, \"Score\": 1863, \"Type\": 17339929, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u9b3c\\u3001\\u9f99\\u3001\\u4ed9#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u6839\\u9aa8 <cbg_p p=\\\"0.41\\\">+8</cbg_p>#r#Y\\u529b\\u91cf <cbg_p p=\\\"0.36\\\">+7</cbg_p>#r#Y\\u7834\\u9632\\u6982\\u7387 <cbg_p p=\\\"0.49\\\">+3.4%</cbg_p>#r#Y\\u95ea\\u8eb2\\u7387 <cbg_p p=\\\"0.37\\\">+2.6%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300265, \"Score\": 2272, \"Type\": 17332829, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u8170\\u5e26#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u591c\\u6eaa\\u7075\\u3001\\u5e7d\\u68a6\\u5f71\\u3001\\u955c\\u82b1\\u5f71\\u3001\\u9a8a\\u73e0\\u513f\\u3001\\u6728\\u5170\\u884c\\u3001\\u83ab\\u89e3\\u8bed\\u3001\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u6c14\\u8840\\u4e0a\\u9650 <cbg_p p=\\\"0.45\\\">+4530</cbg_p>#r#Y\\u7834\\u9632\\u6982\\u7387 <cbg_p p=\\\"0.46\\\">+3.2%</cbg_p>#r#Y\\u653b\\u51fb <cbg_p p=\\\"0.38\\\">+767</cbg_p>#r#Y\\u653b\\u51fb\\u767e\\u5206\\u6bd4 <cbg_p p=\\\"0.42\\\">+2.1%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300266, \"Score\": 1850, \"Type\": 17339929, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u9b3c\\u3001\\u9f99\\u3001\\u4ed9#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u7834\\u9632\\u6982\\u7387 <cbg_p p=\\\"0.42\\\">+2.9%</cbg_p>#r#Y\\u7269\\u7406\\u5438\\u6536 <cbg_p p=\\\"0.50\\\">+3.4%</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u571f <cbg_p p=\\\"0.38\\\">+5.7%</cbg_p>#r#Y\\u6c34\\u7cfb\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.35\\\">+5.3%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 300266, \"Score\": 1758, \"Type\": 17339929, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u628a\\u73a9#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u9b3c\\u3001\\u9f99\\u3001\\u4ed9#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u7075\\u6027 <cbg_p p=\\\"0.40\\\">+7</cbg_p>#r#Y\\u7834\\u9632\\u7a0b\\u5ea6 <cbg_p p=\\\"0.36\\\">+2.5%</cbg_p>#r#Y\\u96f7\\u7cfb\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.39\\\">+5.7%</cbg_p>#r#Y\\u706b\\u7cfb\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.35\\\">+5.3%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e72\\u9704\\u51cc\\u4e91 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 2}, {\"Shape\": 300140, \"Score\": 1712, \"Type\": 17339908, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u628a\\u73a9#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u4ed9\\u3001\\u9b3c#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u654f\\u6377 <cbg_p p=\\\"0.35\\\">+7</cbg_p>#r#Y\\u8fde\\u51fb\\u7387 <cbg_p p=\\\"0.42\\\">+2.9%</cbg_p>#r#Y\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.37\\\">+2.5%</cbg_p>#r#Y\\u7834\\u9632\\u7a0b\\u5ea6 <cbg_p p=\\\"0.40\\\">+2.7%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 2}, {\"Shape\": 300199, \"Score\": 1793, \"Type\": 17399621, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u628a\\u73a9#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u62ab\\u98ce#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u901a\\u7528#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c130\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u95ea\\u8eb2\\u7387 <cbg_p p=\\\"0.39\\\">+2.7%</cbg_p>#r#Y\\u7834\\u9632\\u6982\\u7387 <cbg_p p=\\\"0.49\\\">+3.4%</cbg_p>#r#Y\\u5f3a\\u529b\\u514b\\u571f <cbg_p p=\\\"0.40\\\">+5.9%</cbg_p>#r#Y\\u6839\\u9aa8 <cbg_p p=\\\"0.46\\\">+9</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4ee5\\u76f4\\u62a5\\u6028 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 2}, {\"EquipLevel\": \"adveq_120\", \"GemInfo\": [], \"EquipIndex\": 5, \"Rarity\": 4, \"Shape\": 102503, \"Score\": 3683, \"MaxGemCnt\": 13, \"Type\": 14550101, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u978b\\u5b50#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u901a\\u7528#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30111\\u8f6c120\\u7ea7#r#G\\u53ef\\u91cd\\u94f8 \\u53ef\\u70bc\\u5316#r#Y\\u6297\\u6df7\\u4e71 <cbg_p p=\\\"0.77\\\">+25.0%</cbg_p>#r#Y\\u901f\\u5ea6 <cbg_p p=\\\"0.76\\\">+45</cbg_p>#r#Y\\u901f\\u5ea6 <cbg_p p=\\\"0.69\\\">+31</cbg_p>#r#G\\u654f\\u6377 +12#r#G\\u72c2\\u66b4\\u7387 +0.7%#r#G\\u654f\\u6377 +16\"}, {\"Shape\": 8228, \"Type\": 11029, \"Amount\": 1, \"Rarity\": 3}, {\"Shape\": 8228, \"Type\": 11003, \"Amount\": 1, \"Rarity\": 3}, {\"Shape\": 5412, \"Type\": 18001, \"Amount\": 1, \"Rarity\": 2}, {\"Shape\": 5613, \"Type\": 5613, \"Amount\": 1, \"Rarity\": 3}, {\"Shape\": 300187, \"Score\": 1627, \"Type\": 17199619, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u628a\\u73a9#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u62ab\\u98ce#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u901a\\u7528#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c130\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u95ea\\u8eb2\\u7387 <cbg_p p=\\\"0.49\\\">+3.4%</cbg_p>#r#Y\\u529b\\u91cf <cbg_p p=\\\"0.47\\\">+9</cbg_p>#r#Y\\u6297\\u98ce <cbg_p p=\\\"0.45\\\">+4.4%</cbg_p>#r#Y\\u95ea\\u8eb2\\u7387 <cbg_p p=\\\"0.39\\\">+2.6%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u5e7b\\u5f71\\u5982\\u98ce \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 2}, {\"Shape\": 300140, \"Score\": 1899, \"Type\": 17339908, \"Desc\": \"\\u3010\\u4f69\\u9970\\u54c1\\u9636\\u3011\\u73cd\\u85cf#r\\u3010\\u4f69\\u9970\\u90e8\\u4f4d\\u3011\\u6212\\u6307#r\\u3010\\u4f69\\u9970\\u9002\\u7528\\u3011\\u4ed9\\u3001\\u9b3c#n#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8#r#Y\\u529b\\u91cf <cbg_p p=\\\"0.46\\\">+9</cbg_p>#r#Y\\u7269\\u7406\\u5438\\u6536 <cbg_p p=\\\"0.37\\\">+2.5%</cbg_p>#r#Y\\u706b\\u7cfb\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.45\\\">+6.7%</cbg_p>#r#Y\\u72c2\\u66b4\\u7387 <cbg_p p=\\\"0.40\\\">+2.8%</cbg_p>#r\\u3010\\u5957\\u88c5\\u6280\\u80fd\\u3011#r#G\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u628a\\u73a9 (\\u672a\\u6fc0\\u6d3b)#r#B\\u4e07\\u53e4\\u540c\\u60b2 \\u00b7 \\u73cd\\u85cf (\\u672a\\u6fc0\\u6d3b)\", \"Rarity\": 3}, {\"Shape\": 5612, \"Type\": 5612, \"Amount\": 1, \"Rarity\": 3}, {\"EquipLevel\": \"shenbing_1\", \"GemInfo\": [], \"EquipIndex\": 4, \"Rarity\": 4, \"Shape\": 102204, \"Score\": 1941, \"MaxGemCnt\": 6, \"Type\": 15140105, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u5934\\u76d4#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u9a8a\\u73e0\\u513f\\u3001\\u6728\\u5170\\u884c\\u3001\\u83ab\\u89e3\\u8bed#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u301160\\u7ea7#r\\u3010\\u529b\\u91cf\\u8981\\u6c42\\u3011200#r#G\\u53ef\\u70bc\\u5316#r#Y\\u52a0\\u5f3a\\u9707\\u51fb <cbg_p p=\\\"0.93\\\">+1.3%</cbg_p>#r#Y\\u52a0\\u5f3a\\u6cbb\\u6108 <cbg_p p=\\\"0.93\\\">+1.3%</cbg_p>#r#Y\\u6297\\u5c01\\u5370 <cbg_p p=\\\"0.89\\\">+17.0%</cbg_p>#r#Y\\u6297\\u9057\\u5fd8 <cbg_p p=\\\"0.88\\\">+16.7%</cbg_p>\"}, {\"EquipLevel\": \"shenbing_1\", \"GemInfo\": [], \"EquipIndex\": 1, \"Rarity\": 4, \"Shape\": 101704, \"Score\": 2104, \"MaxGemCnt\": 6, \"Type\": 15117203, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u6b66\\u5668#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u65e0\\u6daf\\u5b50#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u301160\\u7ea7#r\\u3010\\u6839\\u9aa8\\u8981\\u6c42\\u3011200#r#G\\u53ef\\u70bc\\u5316#r#Y\\u5ffd\\u89c6\\u6297\\u9b3c\\u706b <cbg_p p=\\\"0.85\\\">+10.0%</cbg_p>#r#Y\\u5ffd\\u89c6\\u6297\\u9057\\u5fd8 <cbg_p p=\\\"0.81\\\">+5.7%</cbg_p>#r#Y\\u653b\\u51fb <cbg_p p=\\\"0.99\\\">+1984</cbg_p>#r#Y\\u6c14\\u8840\\u4e0a\\u9650 <cbg_p p=\\\"0.80\\\">+2315</cbg_p>\"}, {\"Shape\": 8228, \"Type\": 11002, \"Amount\": 1, \"Rarity\": 3}], \"Basic\": {\"ThunderRageOdds\": 46, \"PhyDef\": 2078, \"Wakan\": 1316, \"SleepDefMaxLmt\": 475, \"ForgetDefNeg\": 9, \"WindEhan\": 100, \"FreePoint\": 0, \"GuoShiJiFen\": 751, \"DisorderDefMaxLmt\": 545, \"SanshiDefNeg\": 46, \"WindDef\": 699, \"Platform\": \"ios\", \"Rei\": 3, \"ShanshiRageOdds\": 46, \"MpMax\": 417353, \"WuXingLevel\": 34, \"FireRageOdds\": 384, \"WindRageOdds\": 46, \"SanshiDef\": 215, \"WuXingInfo\": {\"Water\": 34, \"Soil\": 34, \"Wood\": 34, \"Fire\": 57, \"Gold\": 34}, \"DiGongScore\": 14380, \"GfireDefNeg\": 46, \"CbgXianYuFzn\": 34, \"CbgYinLiangFzn\": 22416072, \"OrgTianFuTotalPoint\": 85, \"Power\": 195, \"RainDefNeg\": 46, \"OrgName\": \"\\u6e05\\u2022\\u5fc3\\u2022\\u5c45\", \"ConGold\": 974, \"LingXiuZhi\": 909, \"ThunderDefNeg\": 893, \"VoidRate\": 60, \"DisorderDefNeg\": 9, \"WindDefNeg\": 46, \"XiaYi\": 2096, \"ZongHeScore\": 114430, \"Agility\": 181, \"ShockDefNeg\": 28, \"ForgetDef\": 1463, \"Grade\": 181, \"HitRate\": 942, \"PhyDefNef\": 60, \"ForgetDefMaxLmt\": 475, \"FreePointExchange\": 300, \"ThunderDef\": 702, \"RainDef\": 716, \"GfireRageOdds\": 46, \"Name\": \"\\u3002\\u9010\\u6708\\u3043\", \"FireEhan\": 184, \"HpMax\": 51480, \"DaYanTaScore\": 19314, \"RoleId\": 2034, \"DisorderDef\": 1545, \"Married\": 1, \"DNTGScore\": 99944, \"Atk\": 11478, \"FireDef\": 702, \"HitComboRate\": 55, \"LongZhanScore\": 13100, \"ShockDef\": 230, \"ThunderEhan\": 100, \"Exp\": 9858034229, \"RainEhan\": 100, \"BanGong\": 46803, \"Basecon\": 190, \"OrgShouHu\": 96, \"SealDefNeg\": 9, \"BirthPlace\": 3111, \"FireDefNeg\": 1333, \"ShuiLuGongJi\": 4410, \"PoisonDef\": 175, \"GfireDef\": 230, \"PoisonDefNeg\": 46, \"Rank\": 0, \"Id\": 64076909, \"GfireEhan\": 100, \"MigCount\": 0, \"ReiInfo\": {\"RainDef\": 200, \"ThunderDef\": 200, \"ShockDef\": 230, \"MpReiFactor\": 205, \"FireDef\": 200, \"HpReiFactor\": 205}, \"SealDef\": 1475, \"SealDefMaxLmt\": 475, \"RainRageOdds\": 46, \"Speed\": 702, \"ArenaMoney\": 20432, \"SleepDefNeg\": 9}, \"HuoBanInfo\": [{\"Grade\": 167, \"Rei\": 3, \"Type\": 12004, \"TianFu\": {\"t10000204\": 1, \"t200402\": 1, \"t10000604\": 1, \"t10000304\": 1, \"t10000804\": 1, \"t10000704\": 1, \"t10000904\": 1, \"t10000404\": 1, \"t200401\": 1, \"t10000104\": 1, \"t200403\": 1, \"t10000504\": 1, \"t200405\": 1, \"t200404\": 1, \"t200406\": 1}, \"Exp\": 1148453861}, {\"Grade\": 174, \"Rei\": 3, \"Type\": 13005, \"TianFu\": {\"t10000205\": 1, \"t300505\": 1, \"t10000605\": 1, \"t300501\": 1, \"t10000305\": 1, \"t10000705\": 1, \"t10000105\": 1}, \"Exp\": 401185889}, {\"Grade\": 165, \"Rei\": 3, \"Type\": 12033, \"TianFu\": {\"t10000833\": 1, \"t203302\": 1, \"t203301\": 1, \"t10000733\": 1, \"t203306\": 1, \"t203305\": 1, \"t203304\": 1, \"t10000633\": 1, \"t10000333\": 1, \"t10000233\": 1, \"t10000933\": 1, \"t10000433\": 1, \"t10000133\": 1, \"t10000533\": 1}, \"Exp\": 1662425561}, {\"Grade\": 163, \"Rei\": 3, \"Type\": 13036, \"TianFu\": {\"t10000536\": 1, \"t10000336\": 1, \"t10000836\": 1, \"t10000736\": 1, \"t303605\": 1, \"t303604\": 1, \"t10000236\": 1, \"t303601\": 1, \"t303602\": 1, \"t10000436\": 1, \"t10000636\": 1, \"t10000136\": 1}, \"Exp\": 120661537}], \"NourishMPGrade\": 1, \"AllHouse\": [\"chuji\", \"lvdi\"], \"SuitInfo\": {\"SkillName\": \"\\u4e07\\u53e4\\u540c\\u60b2\", \"Name\": \"\\u6b8b\\u68a6\", \"Level\": 3}, \"SkillInfo\": [{\"id\": 22109, \"name\": \"\\u70c8\\u706b\\u9a84\\u9633\", \"level\": 25000}, {\"id\": 22210, \"name\": \"\\u4e5d\\u9634\\u7eaf\\u706b\", \"level\": 25000}, {\"id\": 22113, \"name\": \"\\u7535\\u95ea\\u96f7\\u9e23\", \"level\": 25000}, {\"id\": 22214, \"name\": \"\\u5929\\u8bdb\\u5730\\u706d\", \"level\": 25000}, {\"id\": 22115, \"name\": \"\\u86df\\u9f99\\u51fa\\u6d77\", \"level\": 25000}, {\"id\": 22216, \"name\": \"\\u4e5d\\u9f99\\u51b0\\u5c01\", \"level\": 25000}], \"ActiveSummon\": [{\"ThunderRageOdds\": 234, \"QingMianRageOdds\": 263, \"Amity\": 32891, \"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 3, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"FireRageOdds\": 234, \"Gow\": 9902, \"Type\": 30002, \"Agility\": 121, \"Power\": 695, \"SanshiDef\": 109, \"PhyDefNef\": 763, \"AscentLevel\": 0, \"Water\": 50, \"FatalRate\": 329, \"InitAttr\": {\"HpInit\": {\"Max\": 180, \"Now\": 119, \"Min\": 55}, \"AtkInit\": {\"Max\": 320, \"Now\": 303, \"Min\": 108}, \"SpeedInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}, \"MpInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}}, \"PracticeLevel\": 61, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 1000, \"CtrlZuoQiType\": 9211, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u9f99\\u9a6c\", \"HpMax\": 62577, \"FinalGrowthRateMax\": 1.575, \"TianMoRageOdds\": 263, \"Atk\": 47712, \"HitComboRate\": 87, \"MpMax\": 23059, \"Wakan\": 121, \"PhyDefNefRate\": 714, \"AllSkills\": [{\"id\": 31107, \"name\": \"\\u594b\\u8e44\\u626c\\u5a01\", \"pos\": 1}, {\"id\": 32231, \"name\": \"\\u9ad8\\u7ea7\\u53cd\\u54fa\\u4e4b\\u79c1\", \"pos\": 2}, {\"id\": 32105, \"name\": \"\\u5206\\u88c2\\u653b\\u51fb\", \"pos\": 5}, {\"id\": 32103, \"name\": \"\\u795e\\u5de5\\u9b3c\\u529b\", \"pos\": 3}, {\"id\": 32239, \"name\": \"\\u9ad8\\u7ea7\\u5e10\\u996e\\u4e1c\\u90fd\", \"pos\": 4}, {\"id\": 32115, \"name\": \"\\u9057\\u4ea7\", \"pos\": 6}], \"Basecon\": 121, \"FinalGrowthRate\": 1.575, \"ShockDef\": 81, \"GfireDef\": 55, \"Soil\": 50, \"CtrlZuoQiSId\": \"8203111\", \"WindRageOdds\": 234, \"Grade\": 121, \"Shape\": 5031, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"DragonBone\": 0, \"Speed\": 190}, {\"ThunderRageOdds\": 234, \"Amity\": 115530, \"FreePoint\": 0, \"TreasureFlag\": false, \"HitCombo\": 6, \"Rei\": 3, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"FireRageOdds\": 234, \"Gow\": 9833, \"Type\": 30016, \"Agility\": 770, \"Power\": 136, \"Fire\": 10, \"QingMianRageOdds\": 263, \"PhyDefNef\": 14, \"AscentLevel\": 0, \"Water\": 20, \"FatalRate\": 69, \"InitAttr\": {\"HpInit\": {\"Max\": 225, \"Now\": 104, \"Min\": 70}, \"AtkInit\": {\"Max\": 10, \"Now\": 4, \"Min\": 1}, \"SpeedInit\": {\"Max\": 460, \"Now\": 454, \"Min\": 150}, \"MpInit\": {\"Max\": 45, \"Now\": 33, \"Min\": 20}}, \"PracticeLevel\": 55, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 1300, \"CtrlZuoQiType\": 9241, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u5c0f\\u4e94\\u53f6\", \"HpMax\": 37502, \"FinalGrowthRateMax\": 1.317, \"TianMoRageOdds\": 263, \"Atk\": 4976, \"HitComboRate\": 422, \"MpMax\": 28529, \"Wakan\": 136, \"PhyDefNefRate\": 5, \"AllSkills\": [{\"id\": 32105, \"name\": \"\\u5206\\u88c2\\u653b\\u51fb\", \"pos\": 5}, {\"id\": 0, \"name\": \"\", \"pos\": 6}, {\"id\": 32207, \"name\": \"\\u5206\\u82b1\\u62c2\\u67f3\", \"pos\": 3}, {\"id\": 32237, \"name\": \"\\u9ad8\\u7ea7\\u9694\\u5c71\\u6253\\u725b\", \"pos\": 1}, {\"id\": 32124, \"name\": \"\\u95ea\\u73b0\", \"pos\": 2}, {\"id\": 32115, \"name\": \"\\u9057\\u4ea7\", \"pos\": 4}], \"Basecon\": 136, \"FinalGrowthRate\": 1.317, \"ShockDef\": 81, \"Gold\": 10, \"Grade\": 136, \"Soil\": 10, \"CtrlZuoQiSId\": \"48436247\", \"WindRageOdds\": 234, \"Shape\": 6110, \"Wood\": 50, \"FenGuangRageOdds\": 263, \"DragonBone\": 2, \"Speed\": 1895}, {\"ThunderRageOdds\": 234, \"Amity\": 109478, \"FreePoint\": 0, \"TreasureFlag\": false, \"WindDef\": -119, \"Rei\": 2, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"FireRageOdds\": 234, \"Gow\": 6182, \"Type\": 20021, \"ThunderDef\": -119, \"Agility\": 452, \"Power\": 128, \"QingMianRageOdds\": 263, \"PhyDefNef\": 14, \"AscentLevel\": 0, \"FatalRate\": 39, \"InitAttr\": {\"HpInit\": {\"Max\": 135, \"Now\": 93, \"Min\": 1}, \"AtkInit\": {\"Max\": 142, \"Now\": 121, \"Min\": 1}, \"SpeedInit\": {\"Max\": 180, \"Now\": 142, \"Min\": 1}, \"MpInit\": {\"Max\": 134, \"Now\": 40, \"Min\": 1}}, \"PracticeLevel\": 0, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"DragonBone\": 0, \"CtrlZuoQiType\": 9241, \"RainRageOdds\": 234, \"RainDef\": -119, \"GfireRageOdds\": 234, \"Name\": \"\\u5c71\\u5996\", \"HpMax\": 83372, \"FinalGrowthRateMax\": 1.475, \"TianMoRageOdds\": 263, \"Atk\": 14247, \"FireDef\": -119, \"HitComboRate\": 45, \"MpMax\": 48997, \"PhyDefNefRate\": 5, \"AllSkills\": [{\"id\": 32112, \"name\": \"\\u5fe0\\u8bda\", \"pos\": 1}, {\"id\": 32205, \"name\": \"\\u8fdb\\u9000\\u81ea\\u5982\", \"pos\": 2}, {\"id\": 32103, \"name\": \"\\u795e\\u5de5\\u9b3c\\u529b\", \"pos\": 3}, {\"id\": 32240, \"name\": \"\\u9ad8\\u7ea7\\u6e90\\u6cc9\\u4e07\\u659b\", \"pos\": 4}], \"Basecon\": 376, \"FinalGrowthRate\": 1.475, \"ShockDef\": 81, \"Gold\": 30, \"GfireDef\": -119, \"Soil\": 70, \"CtrlZuoQiSId\": \"48436247\", \"WindRageOdds\": 234, \"Grade\": 128, \"Shape\": 6074, \"ReshockLevel\": 118, \"FenGuangRageOdds\": 263, \"ReshockRate\": 118, \"Wakan\": 128, \"Speed\": 1030, \"HitCombo\": 3}, {\"ThunderRageOdds\": 234, \"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 0, \"ZZDesc\": \"#G\\u8d44\\u8d28\\u5e73\\u5e73#n\", \"FireRageOdds\": 234, \"Gow\": 1665, \"Type\": 10004, \"Fire\": 30, \"QingMianRageOdds\": 263, \"Amity\": 0, \"AscentLevel\": 0, \"InitAttr\": {\"HpInit\": {\"Max\": 20, \"Now\": 2, \"Min\": 1}, \"AtkInit\": {\"Max\": 90, \"Now\": 37, \"Min\": 27}, \"SpeedInit\": {\"Max\": 110, \"Now\": 90, \"Min\": 33}, \"MpInit\": {\"Max\": 10, \"Now\": 7, \"Min\": 1}}, \"PracticeLevel\": 0, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u5c0f\\u8c79\\u5b50\", \"HpMax\": 2, \"FinalGrowthRateMax\": 1.12, \"TianMoRageOdds\": 263, \"Atk\": 37, \"MpMax\": 7, \"AllSkills\": [{\"id\": 0, \"name\": \"\", \"pos\": 1}], \"FinalGrowthRate\": 0.952, \"ShockDef\": 81, \"Gold\": 70, \"Grade\": 0, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"WindRageOdds\": 234, \"Shape\": 5013, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"Speed\": 85}, {\"ThunderRageOdds\": 234, \"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 0, \"ZZDesc\": \"#G\\u8d44\\u8d28\\u5e73\\u5e73#n\", \"FireRageOdds\": 234, \"Gow\": 3680, \"Type\": 20006, \"Fire\": 75, \"QingMianRageOdds\": 263, \"Amity\": 0, \"AscentLevel\": 0, \"InitAttr\": {\"HpInit\": {\"Max\": 46, \"Now\": 32, \"Min\": 10}, \"AtkInit\": {\"Max\": 120, \"Now\": 44, \"Min\": 36}, \"SpeedInit\": {\"Max\": 12, \"Now\": 7, \"Min\": 1}, \"MpInit\": {\"Max\": 190, \"Now\": 75, \"Min\": 58}}, \"PracticeLevel\": 0, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u72ee\\u874e\", \"HpMax\": 32, \"FinalGrowthRateMax\": 1.275, \"TianMoRageOdds\": 263, \"Atk\": 44, \"MpMax\": 75, \"AllSkills\": [{\"id\": 31106, \"name\": \"\\u70c8\\u706b\\u9a84\\u9633\", \"pos\": 1}], \"FinalGrowthRate\": 1.147, \"ShockDef\": 81, \"Gold\": 25, \"Grade\": 0, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"WindRageOdds\": 234, \"Shape\": 5029, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"Speed\": 8}, {\"ThunderRageOdds\": 234, \"Wakan\": 189, \"FreePoint\": 68, \"TreasureFlag\": false, \"HitCombo\": 3, \"Rei\": 3, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"FireRageOdds\": 234, \"Gow\": 12323, \"Type\": 30018, \"Agility\": 193, \"DamageIncrease\": 134, \"Power\": 963, \"SanshiDef\": 109, \"Amity\": 1030233, \"AscentLevel\": 0, \"FatalRate\": 522, \"InitAttr\": {\"HpInit\": {\"Max\": 100, \"Now\": 52, \"Min\": 30}, \"AtkInit\": {\"Max\": 630, \"Now\": 536, \"Min\": 190}, \"SpeedInit\": {\"Max\": 330, \"Now\": 317, \"Min\": 95}, \"MpInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}}, \"PracticeLevel\": 89, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"DragonBone\": 1, \"CtrlZuoQiType\": 9211, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u9f99\\u5154\", \"HpMax\": 58091, \"FinalGrowthRateMax\": 1.325, \"TianMoRageOdds\": 263, \"Atk\": 91642, \"HitComboRate\": 411, \"MpMax\": 47330, \"PhyDefNefRate\": 772, \"AllSkills\": [{\"id\": 31139, \"name\": \"\\u5929\\u964d\\u8131\\u5154\", \"pos\": 1}, {\"id\": 32251, \"name\": \"\\u6215\\u8eab\\u4f10\\u547d\", \"pos\": 3}, {\"id\": 32114, \"name\": \"\\u81ea\\u533b\", \"pos\": 8}, {\"id\": 32241, \"name\": \"\\u9ad8\\u7ea7\\u795e\\u5de5\\u9b3c\\u529b\", \"pos\": 2}, {\"id\": 32254, \"name\": \"\\u9ad8\\u7ea7\\u5999\\u624b\\u4ec1\\u5fc3\", \"pos\": 4}, {\"id\": 32124, \"name\": \"\\u95ea\\u73b0\", \"pos\": 7}, {\"id\": 32242, \"name\": \"\\u9ad8\\u7ea7\\u500d\\u9053\\u517c\\u884c\", \"pos\": 6}, {\"id\": 32212, \"name\": \"\\u89c6\\u6b7b\\u5982\\u5f52\", \"pos\": 5}], \"Basecon\": 189, \"FinalGrowthRate\": 1.325, \"ShockDef\": 81, \"Gold\": 50, \"GfireDef\": 55, \"PhyDefNef\": 846, \"CtrlZuoQiSId\": \"8203111\", \"WindRageOdds\": 234, \"Grade\": 189, \"Shape\": 5064, \"Wood\": 50, \"FenGuangRageOdds\": 263, \"QingMianRageOdds\": 263, \"Speed\": 866}, {\"ThunderRageOdds\": 234, \"Wakan\": 723, \"FreePoint\": 0, \"TreasureFlag\": true, \"WindDef\": 640, \"Rei\": 3, \"FireRageOdds\": 234, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 17789, \"Type\": 50006, \"ThunderDef\": 240, \"Agility\": 507, \"Power\": 190, \"QingMianRageOdds\": 263, \"Amity\": 258801, \"AscentLevel\": 3, \"Water\": 80, \"FatalRate\": 58, \"InitAttr\": {\"HpInit\": {\"Max\": 740, \"Now\": 492, \"Min\": 275}, \"AtkInit\": {\"Max\": 0, \"Now\": 0, \"Min\": 0}, \"SpeedInit\": {\"Max\": 600, \"Now\": 546, \"Min\": 225}, \"MpInit\": {\"Max\": 1460, \"Now\": 1422, \"Min\": 480}}, \"PracticeLevel\": 97, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"DragonBone\": 18, \"CtrlZuoQiType\": 9222, \"RainRageOdds\": 234, \"RainDef\": 640, \"GfireRageOdds\": 234, \"Name\": \"\\u7384\\u6b66\", \"HpMax\": 128731, \"FinalGrowthRateMax\": 1.263, \"DisorderDef\": 1040, \"TianMoRageOdds\": 263, \"Atk\": 9118, \"FireDef\": 640, \"HitComboRate\": 78, \"MpMax\": 441946, \"PhyDefNefRate\": 5, \"AllSkills\": [{\"id\": 31130, \"name\": \"\\u5229\\u6d89\\u5927\\u5ddd\", \"pos\": 1}, {\"id\": 31204, \"name\": \"\\u5982\\u864e\\u6dfb\\u7ffc\", \"pos\": 13}, {\"id\": 32217, \"name\": \"\\u9ad8\\u7ea7\\u9752\\u9762\\u7360\\u7259\", \"pos\": 2}, {\"id\": 32212, \"name\": \"\\u89c6\\u6b7b\\u5982\\u5f52\", \"pos\": 3}, {\"id\": 32242, \"name\": \"\\u9ad8\\u7ea7\\u500d\\u9053\\u517c\\u884c\", \"pos\": 4}, {\"id\": 32240, \"name\": \"\\u9ad8\\u7ea7\\u6e90\\u6cc9\\u4e07\\u659b\", \"pos\": 5}, {\"id\": 32218, \"name\": \"\\u9ad8\\u7ea7\\u5c0f\\u697c\\u591c\\u54ed\", \"pos\": 6}], \"Basecon\": 190, \"FinalGrowthRate\": 1.263, \"ShockDef\": 81, \"GfireDef\": 640, \"PhyDefNef\": 14, \"CtrlZuoQiSId\": \"21363111\", \"WindRageOdds\": 234, \"Grade\": 190, \"Shape\": 6093, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"Soil\": 20, \"Speed\": 1508}, {\"ThunderRageOdds\": 234, \"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 0, \"ZZDesc\": \"#G\\u8d44\\u8d28\\u5e73\\u5e73#n\", \"FireRageOdds\": 234, \"Gow\": 1790, \"Type\": 10004, \"Fire\": 30, \"QingMianRageOdds\": 263, \"Amity\": 0, \"AscentLevel\": 0, \"InitAttr\": {\"HpInit\": {\"Max\": 20, \"Now\": 12, \"Min\": 1}, \"AtkInit\": {\"Max\": 90, \"Now\": 78, \"Min\": 27}, \"SpeedInit\": {\"Max\": 110, \"Now\": 86, \"Min\": 33}, \"MpInit\": {\"Max\": 10, \"Now\": 5, \"Min\": 1}}, \"PracticeLevel\": 0, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u5c0f\\u8c79\\u5b50\", \"HpMax\": 12, \"FinalGrowthRateMax\": 1.12, \"TianMoRageOdds\": 263, \"Atk\": 78, \"MpMax\": 5, \"AllSkills\": [{\"id\": 0, \"name\": \"\", \"pos\": 1}], \"FinalGrowthRate\": 1.008, \"ShockDef\": 81, \"Gold\": 70, \"Grade\": 0, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"WindRageOdds\": 234, \"Shape\": 5013, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"Speed\": 86}, {\"ThunderRageOdds\": 234, \"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 0, \"ZZDesc\": \"#G\\u8d44\\u8d28\\u5e73\\u5e73#n\", \"FireRageOdds\": 234, \"Gow\": 1855, \"Type\": 10004, \"Fire\": 30, \"QingMianRageOdds\": 263, \"Amity\": 0, \"AscentLevel\": 0, \"InitAttr\": {\"HpInit\": {\"Max\": 20, \"Now\": 5, \"Min\": 1}, \"AtkInit\": {\"Max\": 90, \"Now\": 66, \"Min\": 27}, \"SpeedInit\": {\"Max\": 110, \"Now\": 93, \"Min\": 33}, \"MpInit\": {\"Max\": 10, \"Now\": 4, \"Min\": 1}}, \"PracticeLevel\": 0, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u5c0f\\u8c79\\u5b50\", \"HpMax\": 5, \"FinalGrowthRateMax\": 1.12, \"TianMoRageOdds\": 263, \"Atk\": 66, \"MpMax\": 4, \"AllSkills\": [{\"id\": 0, \"name\": \"\", \"pos\": 1}], \"FinalGrowthRate\": 1.064, \"ShockDef\": 81, \"Gold\": 70, \"Grade\": 0, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"WindRageOdds\": 234, \"Shape\": 5013, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"Speed\": 98}, {\"ThunderRageOdds\": 234, \"FreePoint\": 0, \"TreasureFlag\": false, \"Rei\": 0, \"ZZDesc\": \"#G\\u8d44\\u8d28\\u5e73\\u5e73#n\", \"FireRageOdds\": 234, \"Gow\": 1615, \"Type\": 10004, \"Fire\": 30, \"QingMianRageOdds\": 263, \"Amity\": 0, \"AscentLevel\": 0, \"InitAttr\": {\"HpInit\": {\"Max\": 20, \"Now\": 13, \"Min\": 1}, \"AtkInit\": {\"Max\": 90, \"Now\": 53, \"Min\": 27}, \"SpeedInit\": {\"Max\": 110, \"Now\": 90, \"Min\": 33}, \"MpInit\": {\"Max\": 10, \"Now\": 9, \"Min\": 1}}, \"PracticeLevel\": 0, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 0, \"RainRageOdds\": 234, \"GfireRageOdds\": 234, \"Name\": \"\\u5c0f\\u8c79\\u5b50\", \"HpMax\": 13, \"FinalGrowthRateMax\": 1.12, \"TianMoRageOdds\": 263, \"Atk\": 53, \"MpMax\": 9, \"AllSkills\": [{\"id\": 0, \"name\": \"\", \"pos\": 1}], \"FinalGrowthRate\": 0.896, \"ShockDef\": 81, \"Gold\": 70, \"Grade\": 0, \"DragonBone\": 0, \"CtrlZuoQiSId\": \"\", \"WindRageOdds\": 234, \"Shape\": 5013, \"HitCombo\": 3, \"FenGuangRageOdds\": 263, \"Speed\": 80}, {\"ThunderRageOdds\": 234, \"Wakan\": 918, \"FreePoint\": 4, \"TreasureFlag\": false, \"HitCombo\": 3, \"Rei\": 3, \"FireRageOdds\": 234, \"ZZDesc\": \"#P\\u5999\\u9886\\u5929\\u673a#n\", \"Gow\": 11637, \"Type\": 10020, \"Agility\": 308, \"Power\": 190, \"QingMianRageOdds\": 263, \"Amity\": 728422, \"AscentLevel\": 0, \"FatalRate\": 80, \"InitAttr\": {\"HpInit\": {\"Max\": 225, \"Now\": 225, \"Min\": 100}, \"AtkInit\": {\"Max\": 10, \"Now\": 10, \"Min\": 1}, \"SpeedInit\": {\"Max\": 390, \"Now\": 390, \"Min\": 100}, \"MpInit\": {\"Max\": 600, \"Now\": 600, \"Min\": 200}}, \"PracticeLevel\": 67, \"XiaoLouRageOdds\": 263, \"Dye\": 0, \"HitRate\": 800, \"CtrlZuoQiType\": 9222, \"RainRageOdds\": 234, \"RainDef\": 640, \"GfireRageOdds\": 234, \"Name\": \"\\u72d0\\u5c0f\\u5996\", \"HpMax\": 109224, \"FinalGrowthRateMax\": 1.315, \"DisorderDef\": 800, \"TianMoRageOdds\": 263, \"Atk\": 9854, \"FireDef\": 600, \"HitComboRate\": 120, \"MpMax\": 364468, \"PhyDefNefRate\": 5, \"AllSkills\": [{\"id\": 31143, \"name\": \"\\u6211\\u89c1\\u72b9\\u601c\", \"pos\": 1}, {\"id\": 32240, \"name\": \"\\u9ad8\\u7ea7\\u6e90\\u6cc9\\u4e07\\u659b\", \"pos\": 4}, {\"id\": 32242, \"name\": \"\\u9ad8\\u7ea7\\u500d\\u9053\\u517c\\u884c\", \"pos\": 5}, {\"id\": 32244, \"name\": \"\\u708a\\u91d1\\u9994\\u7389\", \"pos\": 7}, {\"id\": 32225, \"name\": \"\\u9ad8\\u7ea7\\u95ea\\u73b0\", \"pos\": 3}, {\"id\": 32236, \"name\": \"\\u9690\\u8eab\", \"pos\": 2}, {\"id\": 32101, \"name\": \"\\u5e10\\u996e\\u4e1c\\u90fd\", \"pos\": 6}], \"Basecon\": 190, \"FinalGrowthRate\": 1.315, \"ShockDef\": 81, \"Gold\": 50, \"GfireDef\": 640, \"PhyDefNef\": 14, \"CtrlZuoQiSId\": \"21363111\", \"WindRageOdds\": 234, \"Grade\": 190, \"Shape\": 6125, \"Wood\": 50, \"FenGuangRageOdds\": 263, \"DragonBone\": 0, \"Speed\": 1105}], \"DecorInfo\": [31146, 20051], \"HeadSurInfo\": [3604, 3605, 3603, 3606, 3303, 3307], \"JinXiuScore\": 4150, \"JinChan\": {\"Grade\": 7, \"MaxStarLevel\": 9, \"StarLevel\": 5}, \"RefreshTime\": \"2022-03-22 15:39:12\", \"UnActiveTianCeFu\": [{\"TianFuId\": \"a67403\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 324103, \"Point\": 7}, {\"TianFuId\": \"a67106\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 321201, \"Point\": 8}, {\"TianFuId\": \"a67207\", \"Shape\": 322102, \"Rarity\": 3, \"Type\": 322203, \"Point\": 7}, {\"TianFuId\": \"a67468\", \"Shape\": 323102, \"Rarity\": 3, \"Type\": 324418, \"Point\": 3}, {\"TianFuId\": \"a67308\", \"Shape\": 323102, \"Rarity\": 3, \"Type\": 323204, \"Point\": 6}, {\"TianFuId\": \"a67210\", \"Shape\": 322102, \"Rarity\": 3, \"Type\": 322302, \"Point\": 6}, {\"TianFuId\": \"a67107\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 321202, \"Point\": 10}, {\"TianFuId\": \"a67203\", \"Shape\": 322102, \"Rarity\": 3, \"Type\": 322103, \"Point\": 7}, {\"TianFuId\": \"a67272\", \"Shape\": 322102, \"Rarity\": 3, \"Type\": 322502, \"Point\": 1}, {\"TianFuId\": \"a67312\", \"Shape\": 323102, \"Rarity\": 3, \"Type\": 323401, \"Point\": 4}, {\"TianFuId\": \"a67433\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 324401, \"Point\": 3}, {\"TianFuId\": \"a67402\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 324102, \"Point\": 8}, {\"TianFuId\": \"a67372\", \"Shape\": 323102, \"Rarity\": 3, \"Type\": 323502, \"Point\": 2}, {\"TianFuId\": \"a67372\", \"Shape\": 323102, \"Rarity\": 3, \"Type\": 323502, \"Point\": 1}, {\"TianFuId\": \"a67316\", \"Shape\": 323102, \"Rarity\": 3, \"Type\": 323304, \"Point\": 6}, {\"TianFuId\": \"a67208\", \"Shape\": 322102, \"Rarity\": 3, \"Type\": 322204, \"Point\": 7}, {\"TianFuId\": \"a67449\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 324501, \"Point\": 3}, {\"TianFuId\": \"a67103\", \"Shape\": 321102, \"Rarity\": 3, \"Type\": 321103, \"Point\": 8}, {\"TianFuId\": \"a67118\", \"Shape\": 322102, \"Rarity\": 3, \"Type\": 321403, \"Point\": 4}], \"AllFurniture\": {\"306015\": 1, \"306021\": 1, \"306025\": 1, \"301000\": 6, \"301001\": 6, \"301002\": 6, \"301007\": 6}, \"DressInfo\": [11, 67], \"EquipInfo\": [{\"EquipLevel\": \"xianqi_3\", \"GemInfo\": [10025, 10025, 10025, 10026, 10026, 10026, 10027, 10027, 10027, 10028, 10028, 10028, 10029, 10029], \"EquipIndex\": 5, \"Rarity\": 5, \"Shape\": 102505, \"Score\": 7205, \"MaxGemCnt\": 16, \"Type\": 16350101, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u978b\\u5b50#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u901a\\u7528#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30112\\u8f6c120\\u7ea7#r#G\\u53ef\\u91cd\\u94f8 \\u53ef\\u70bc\\u5316#r#Y\\u901f\\u5ea6 +298#r#G\\u7075\\u6027 +24#r#G\\u6297\\u5c01\\u5370 +2.8%#r#G\\u7075\\u6027 +27#r#G\\u6297\\u5c01\\u5370 +2.9%\"}, {\"EquipLevel\": \"xianqi_4\", \"GemInfo\": [10019, 10019, 10019, 10020, 10020, 10020, 10021, 10021, 10021, 10022, 10022, 10022, 10023, 10023], \"EquipIndex\": 4, \"Rarity\": 5, \"Shape\": 102205, \"Score\": 7078, \"MaxGemCnt\": 18, \"Type\": 16444105, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u5934\\u76d4#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r\\u3010\\u7075\\u6027\\u8981\\u6c42\\u3011350#r#G\\u53ef\\u91cd\\u94f8 \\u53ef\\u70bc\\u5316#r#Y\\u5ffd\\u89c6\\u6297\\u706b +14.2%#r#Y\\u5ffd\\u89c6\\u6297\\u96f7 +14.2%#r#Y\\u6297\\u5c01\\u5370 +63.9%#r#Y\\u6297\\u9057\\u5fd8 +63.9%#r#G\\u7075\\u6027 +21#r#G\\u7075\\u6027 +20#r#G\\u6297\\u4e09\\u5c38 +4.0%#r#G\\u6297\\u6c34 +6.4%#r#G\\u6297\\u9b3c\\u706b +5.5%\"}, {\"EquipLevel\": \"\", \"GemInfo\": [10013, 10013, 10013, 10014, 10014, 10014, 10015, 10015, 10015, 10016, 10016, 10016, 10017, 10017], \"EquipIndex\": 3, \"Rarity\": 5, \"Shape\": 102405, \"Score\": 5822, \"MaxGemCnt\": 16, \"Type\": 40003324, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u8863\\u670d#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u7384\\u5251\\u5a25\\u3001\\u7384\\u5929\\u59ec\\u3001\\u4e91\\u4e2d\\u541b#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u301110\\u7ea7#r\\u3010\\u7075\\u6027\\u8981\\u6c42\\u3011200#r#Y\\u5ffd\\u89c6\\u6297\\u706b +12.4%#r#Y\\u5ffd\\u89c6\\u6297\\u96f7 +12.4%#r#Y\\u6297\\u6df7\\u4e71 +56.6%#r#Y\\u6297\\u9057\\u5fd8 +56.6%#r#G\\u6839\\u9aa8 +3#r#G\\u6297\\u6df7\\u4e71 +5.8%#r#G\\u6297\\u9057\\u5fd8 +5.8%#r#G\\u5f3a\\u529b\\u514b\\u91d1 +4.5%#r#G\\u5f3a\\u529b\\u514b\\u91d1 +4.5%#r#R\\u4e0d\\u53ef\\u4ea4\\u6613#n\"}, {\"EquipLevel\": \"xianqi_4\", \"GemInfo\": [10007, 10007, 10007, 10008, 10008, 10008, 10009, 10009, 10009, 10010, 10010, 10010, 10011, 10011], \"EquipIndex\": 2, \"Rarity\": 5, \"Shape\": 102605, \"Score\": 6577, \"MaxGemCnt\": 18, \"Type\": 16420101, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u9879\\u94fe#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u901a\\u7528#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r#G\\u53ef\\u91cd\\u94f8 \\u53ef\\u70bc\\u5316#r#Y\\u6297\\u6df7\\u4e71 +14.2%#r#Y\\u901f\\u5ea6 +213#r#Y\\u6c14\\u8840\\u4e0a\\u9650 +4260#r#Y\\u6cd5\\u529b\\u4e0a\\u9650 +4260#r#G\\u5ffd\\u89c6\\u6297\\u706b +4.3%#r#G\\u5ffd\\u89c6\\u6297\\u706b +4.4%#r#G\\u6297\\u5c01\\u5370 +6.3%#r#G\\u6297\\u98ce +4.7%\"}, {\"EquipLevel\": \"xianqi_4\", \"GemInfo\": [10001, 10001, 10001, 10002, 10002, 10002, 10003, 10003, 10003, 10004, 10004, 10004, 10005, 10005, 10005], \"EquipIndex\": 1, \"Rarity\": 5, \"Shape\": 103405, \"Score\": 8004, \"MaxGemCnt\": 18, \"Type\": 16414301, \"Desc\": \"\\u3010\\u88c5\\u5907\\u90e8\\u4f4d\\u3011\\u6b66\\u5668#n#r\\u3010\\u88c5\\u5907\\u9002\\u7528\\u3011\\u4e91\\u4e2d\\u541b#r\\u3010\\u7b49\\u7ea7\\u9700\\u6c42\\u30113\\u8f6c140\\u7ea7#r\\u3010\\u7075\\u6027\\u8981\\u6c42\\u3011350#r#G\\u53ef\\u91cd\\u94f8 \\u53ef\\u70bc\\u5316#r#Y\\u5ffd\\u89c6\\u6297\\u706b +58.0%#r#Y\\u5ffd\\u89c6\\u6297\\u96f7 +58.0%#r#Y\\u653b\\u51fb +6525#r#Y\\u6cd5\\u529b\\u4e0a\\u9650 +12687#r#G\\u5ffd\\u89c6\\u6297\\u706b +6.4%#r#G\\u5ffd\\u89c6\\u6297\\u706b +6.3%#r#G\\u6839\\u9aa8 +2#r#G\\u547d\\u4e2d\\u7387 +2.7%\"}], \"HostId\": 6359, \"BaZhenTu\": {\"XinWu\": {\"x3034\": {\"Xun\": {\"Percent\": 0.4477, \"ConSoil\": 67.155}, \"Li\": {\"Percent\": 0.4641, \"CureEhan\": 27.846}, \"Pos\": \"Kan\", \"Kan\": {\"FireDefNeg\": 46.758, \"Percent\": 0.7793}}, \"x3006\": {\"Dui\": {\"GfireDefNeg\": 22.134, \"Percent\": 0.3689}, \"Li\": {\"CharmEhan\": 29.586, \"Percent\": 0.4931}, \"Gen\": {\"FireDefNeg\": 42.996, \"Percent\": 0.7166}, \"Pos\": \"Gen\"}, \"x3010\": {\"Dui\": {\"FireDefNeg\": 41.496, \"Percent\": 0.6916}, \"Xun\": {\"AdAtkEhan\": 25.26, \"Percent\": 0.421}, \"Gen\": {\"GfireDefNeg\": 27.03, \"Percent\": 0.4505}, \"Pos\": \"Dui\"}, \"x3031\": {\"Dui\": {\"ConWater\": 109.275, \"Percent\": 0.7285}, \"Li\": {\"FireDefNeg\": 53.994, \"Percent\": 0.8999}, \"Gen\": {\"Percent\": 0.4092, \"SleepDefNeg\": 10.23}, \"Pos\": \"Li\"}, \"x3012\": {\"Dui\": {\"ShockDefNeg\": 10.0325, \"Percent\": 0.4013}, \"Xun\": {\"FireDefNeg\": 40.158, \"Percent\": 0.6693}, \"Gen\": {\"GfireDefNeg\": 30.786, \"Percent\": 0.5131}, \"Pos\": \"Xun\"}}, \"UnActiveXinWu\": {\"x3027\": {\"Dui\": {\"WindDefNeg\": 21.96, \"Percent\": 0.366}, \"Kan\": {\"RainDefNeg\": 58.788, \"Percent\": 0.9798}, \"Li\": {\"WindDefNeg\": 25.134, \"Percent\": 0.4189}}, \"x3011\": {\"Kun\": {\"Percent\": 0.4534, \"SleepDefNeg\": 11.335}, \"Kan\": {\"ConGold\": 137.445, \"Percent\": 0.9163}, \"Gen\": {\"Percent\": 0.5439, \"SleepDefMaxLmt\": 32.634}}, \"x3036\": {\"Li\": {\"Percent\": 0.4556, \"AdDefEhan\": 27.336}, \"Gen\": {\"ThunderDefNeg\": 58.506, \"Percent\": 0.9751}, \"Kan\": {\"Percent\": 0.4479, \"BreakEhan\": 26.874}}, \"x3017\": {\"Xun\": {\"ThunderDefNeg\": 37.704, \"Percent\": 0.6284}, \"Gen\": {\"SealDefNeg\": 11.85, \"Percent\": 0.474}, \"Li\": {\"FireDefNeg\": 27.486, \"Percent\": 0.4581}}, \"x3033\": {\"Qian\": {\"ForgetDef\": 85.98, \"Percent\": 0.4299}, \"Gen\": {\"PhyDef\": 91.44, \"Percent\": 0.4572}, \"Kan\": {\"GfireDef\": 75.08, \"Percent\": 0.3754}}, \"x3020\": {\"Dui\": {\"Percent\": 0.4881, \"SanshiDef\": 97.62}, \"Xun\": {\"RainDef\": 77.34, \"Percent\": 0.3867}, \"Gen\": {\"GfireDef\": 91, \"Percent\": 0.455}}, \"x3004\": {\"Dui\": {\"ThunderDefNeg\": 28.362, \"Percent\": 0.4727}, \"Gen\": {\"ConWater\": 69.495, \"Percent\": 0.4633}, \"Li\": {\"ThunderDefNeg\": 59.304, \"Percent\": 0.9884}}, \"x3005\": {\"Dui\": {\"PoisonDefNeg\": 26.304, \"Percent\": 0.4384}, \"Xun\": {\"RainDefNeg\": 41.604, \"Percent\": 0.6934}, \"Li\": {\"SealDefMaxLmt\": 22.494, \"Percent\": 0.3749}}, \"x3001\": {\"Xun\": {\"SealDefMaxLmt\": 21.174, \"Percent\": 0.3529}, \"Gen\": {\"DisorderDef\": 98.96, \"Percent\": 0.4948}, \"Li\": {\"ForgetDef\": 158.62, \"Percent\": 0.7931}}, \"x3002\": {\"Dui\": {\"WindDef\": 90.12, \"Percent\": 0.4506}, \"Xun\": {\"ForgetDef\": 98.5, \"Percent\": 0.4925}, \"Kan\": {\"PoisonDef\": 80.58, \"Percent\": 0.4029}}, \"x3003\": {\"Xun\": {\"SealDefMaxLmt\": 23.046, \"Percent\": 0.3841}, \"Gen\": {\"ThunderDefNeg\": 51.354, \"Percent\": 0.8559}, \"Kan\": {\"SweepEhan\": 29.934, \"Percent\": 0.4989}}, \"x3023\": {\"Li\": {\"SealDefMaxLmt\": 25.386, \"Percent\": 0.4231}, \"Gen\": {\"WindDef\": 93.4, \"Percent\": 0.467}, \"Kan\": {\"DisorderDef\": 86.12, \"Percent\": 0.4306}}, \"x3008\": {\"Xun\": {\"Percent\": 0.7132, \"ConSoil\": 106.98}, \"Gen\": {\"WindDefNeg\": 22.836, \"Percent\": 0.3806}, \"Li\": {\"RainDefNeg\": 50.1, \"Percent\": 0.835}}, \"x3029\": {\"Dui\": {\"ThunderDefNeg\": 59.79, \"Percent\": 0.9965}, \"Li\": {\"SealDefNeg\": 9.75, \"Percent\": 0.39}, \"Qian\": {\"Percent\": 0.3925, \"ThudEhan\": 23.55}}, \"x3009\": {\"Dui\": {\"PoisonDef\": 95, \"Percent\": 0.475}, \"Kan\": {\"ForgetDefMaxLmt\": 21.456, \"Percent\": 0.3576}, \"Li\": {\"RainDef\": 79.06, \"Percent\": 0.3953}}}, \"FaZhen\": {\"Dui\": 75, \"Qian\": 77, \"Kan\": 74, \"Zhen\": 74, \"Kun\": 74, \"Xun\": 74, \"Li\": 73, \"Gen\": 74}, \"FaZhenDesc\": \"\", \"FaZhenName\": \"\"}, \"EffectDat\": {\"1\": [], \"3\": [5003, 5001], \"2\": [5412, 5404, 5469], \"5\": [5103], \"4\": [5417]}, \"ActiveTianCeFu\": [{\"Index\": 412, \"TianFuId\": \"a67117\", \"Point\": 1, \"Rarity\": 2, \"Shape\": 322101, \"Type\": 321402}, {\"Index\": 512, \"TianFuId\": \"a67271\", \"Point\": 3, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322501}, {\"Index\": 221, \"TianFuId\": \"a67105\", \"Point\": 8, \"Rarity\": 3, \"Shape\": 321102, \"Type\": 321105}, {\"Index\": 211, \"TianFuId\": \"a67109\", \"Point\": 8, \"Rarity\": 3, \"Shape\": 321102, \"Type\": 321204}, {\"Index\": 111, \"TianFuId\": \"a67404\", \"Point\": 9, \"Rarity\": 3, \"Shape\": 321102, \"Type\": 324104}, {\"Index\": 121, \"TianFuId\": \"a67101\", \"Point\": 8, \"Rarity\": 3, \"Shape\": 321102, \"Type\": 321101}, {\"Index\": 411, \"TianFuId\": \"a67436\", \"Point\": 6, \"Rarity\": 3, \"Shape\": 321102, \"Type\": 324404}, {\"Index\": 3, \"TianFuId\": \"a67306\", \"Point\": 9, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 323202}, {\"Index\": 2, \"TianFuId\": \"a67204\", \"Point\": 10, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322104}, {\"Index\": 222, \"TianFuId\": \"a67205\", \"Point\": 10, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322201}, {\"Index\": 223, \"TianFuId\": \"a67315\", \"Point\": 8, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 323205}, {\"Index\": 113, \"TianFuId\": \"a67301\", \"Point\": 8, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 323101}, {\"Index\": 123, \"TianFuId\": \"a67302\", \"Point\": 10, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 323102}, {\"Index\": 313, \"TianFuId\": \"a67311\", \"Point\": 7, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 323303}, {\"Index\": 213, \"TianFuId\": \"a67307\", \"Point\": 10, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 323203}, {\"Index\": 513, \"TianFuId\": \"a67371\", \"Point\": 6, \"Rarity\": 4, \"Shape\": 323103, \"Type\": 323501}, {\"Index\": 413, \"TianFuId\": \"a67456\", \"Point\": 7, \"Rarity\": 3, \"Shape\": 323102, \"Type\": 324416}, {\"Index\": 1, \"TianFuId\": \"a67467\", \"Point\": 8, \"Rarity\": 4, \"Shape\": 321103, \"Type\": 324317}, {\"Index\": 311, \"TianFuId\": \"a67420\", \"Point\": 9, \"Rarity\": 4, \"Shape\": 321103, \"Type\": 324304}, {\"Index\": 212, \"TianFuId\": \"a67206\", \"Point\": 10, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322202}, {\"Index\": 312, \"TianFuId\": \"a67214\", \"Point\": 5, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322403}, {\"Index\": 122, \"TianFuId\": \"a67202\", \"Point\": 9, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322102}, {\"Index\": 112, \"TianFuId\": \"a67201\", \"Point\": 8, \"Rarity\": 3, \"Shape\": 322102, \"Type\": 322101}], \"RideInfo\": [{\"Name\": \"\\u51e4\\u51f0\", \"Grade\": 100, \"Speed\": 17, \"Pos\": 4, \"Score\": 5179, \"Exp\": 581049, \"SId\": \"48436247\", \"AllSkills\": [{\"Desc\": \"#p60#n\\u589e\\u52a0\\u901f\\u5ea64.4%#r#p55#n\\u53d7\\u5230\\u653b\\u51fb\\u65f6\\u82e5\\u81ea\\u8eab\\u672a\\u5904\\u4e8e\\u52a0\\u901f\\u72b6\\u6001\\uff0c\\u5219\\u67091.09%\\u7684\\u6982\\u7387\\u8fdb\\u5165\\u52a0\\u901f\\u72b6\\u6001\\uff0c\\u901f\\u5ea6\\u589e\\u52a04.4%\\uff0c\\u6301\\u7eed3\\u56de\\u5408\\u3002\", \"Id\": 64101, \"Level\": 81273}, {\"Desc\": \"#p60#n\\u589e\\u52a0\\u901f\\u5ea64.39%#r#p55#n\\u653b\\u51fb\\u654c\\u65b9\\u65f6\\u82e5\\u654c\\u65b9\\u672a\\u5904\\u4e8e\\u51cf\\u901f\\u72b6\\u6001\\uff0c\\u5219\\u67091.98%\\u7684\\u6982\\u7387\\u4f7f\\u5bf9\\u65b9\\u8fdb\\u5165\\u51cf\\u901f\\u72b6\\u6001\\uff0c\\u901f\\u5ea6\\u964d\\u4f4e8.69%\\uff0c\\u6301\\u7eed3\\u56de\\u5408\\u3002\", \"Id\": 64102, \"Level\": 81137}, {\"Desc\": \"#p60#n\\u589e\\u52a0\\u901f\\u5ea68.8%#r#p55#n\\u989d\\u5916\\u589e\\u52a0\\u5750\\u9a91\\u79fb\\u52a8\\u901f\\u5ea65%\", \"Id\": 64103, \"Level\": 81375}], \"TiQiDan\": 0, \"Type\": 9241, \"GrowthRate\": 1055}, {\"Name\": \"\\u4ed9\\u8f66\", \"Grade\": 50, \"Speed\": 26, \"Pos\": 3, \"Score\": 3259, \"Exp\": 4115, \"SId\": \"54613111\", \"AllSkills\": [{\"Desc\": \"#p58#n\\u589e\\u52a0\\u6c14\\u88405.97%#r#p56#n\\u589e\\u52a0\\u95ea\\u907f\\u73877.9%\", \"Id\": 63120, \"Level\": 4062}, {\"Desc\": \"#p55#n\\u51cf\\u5c1120%\\u7684\\u901f\\u5ea6\\uff08\\u56fa\\u5b9a\\uff09\\uff0c\\u589e\\u52a0\\u6c14\\u884011.2%\", \"Id\": 63111, \"Level\": 62}, {\"Desc\": \"#p58#n\\u589e\\u52a0\\u6c14\\u88405.7%#r#p56#n\\u589e\\u52a0\\u95ea\\u907f\\u73877.53%\", \"Id\": 63120, \"Level\": 52}], \"TiQiDan\": 0, \"Type\": 9231, \"GrowthRate\": 975}, {\"Name\": \"\\u846b\\u82a6\", \"Grade\": 80, \"Speed\": 17, \"Pos\": 1, \"Score\": 4476, \"Exp\": 807850, \"SId\": \"8203111\", \"AllSkills\": [{\"Desc\": \"#p55#n\\u82e5\\u5bf9\\u65b9\\u91d1\\u4e94\\u884c\\u226550\\uff0c\\u5219\\u7269\\u7406\\u4f24\\u5bb3\\u989d\\u5916\\u589e\\u52a023.99%\", \"Id\": 61211, \"Level\": 31528}, {\"Desc\": \"#p57#n\\u589e\\u52a0\\u653b\\u51fb\\u529b6.24%#r#p56#n\\u589e\\u52a0\\u72c2\\u66b4\\u73878.25%#r#p56#n\\u589e\\u52a0\\u8fde\\u51fb\\u73876.64%\", \"Id\": 61107, \"Level\": 45529}, {\"Desc\": \"#p58#n\\u589e\\u52a0\\u6c14\\u88402.82%#r#p57#n\\u589e\\u52a0\\u653b\\u51fb\\u529b8.19%#r#p56#n\\u589e\\u52a0\\u6297\\u4e09\\u5c3810.98%#r#p56#n\\u589e\\u52a0\\u6297\\u9b3c\\u706b5.54%\", \"Id\": 61221, \"Level\": 46585}], \"TiQiDan\": 0, \"Type\": 9211, \"GrowthRate\": 1175}, {\"Name\": \"\\u83b2\\u82b1\", \"Grade\": 69, \"Speed\": 30, \"Pos\": 2, \"Score\": 4478, \"Exp\": 425676, \"SId\": \"21363111\", \"AllSkills\": [{\"Desc\": \"#p59#n\\u589e\\u52a0\\u6cd5\\u529b8.5%#r#p56#n\\u589e\\u52a0\\u9b3c\\u706b\\u72c2\\u66b413.76%#r#p56#n\\u589e\\u52a0\\u6297\\u4e09\\u5c387.94%\\u3001\\u6297\\u9b3c\\u706b4.02%#r#p56#n\\u589e\\u52a0\\u5ffd\\u89c6\\u98ce\\u3001\\u96f7\\u3001\\u6c34\\u3001\\u706b\\u3001\\u9b3c\\u706b3.36%\", \"Id\": 62022, \"Level\": 50878}, {\"Desc\": \"#p59#n\\u589e\\u52a0\\u6cd5\\u529b9.95%#r#p56#n\\u589e\\u52a0\\u6297\\u7269\\u74066.7%#r#p56#n\\u589e\\u52a0\\u6297\\u6bd220.52%#r#p56#n\\u589e\\u52a0\\u5ffd\\u89c6\\u98ce\\u3001\\u96f7\\u3001\\u6c34\\u3001\\u706b\\u3001\\u9b3c\\u706b5.89%\", \"Id\": 62109, \"Level\": 60533}, {\"Desc\": \"#p55#n\\u65bd\\u5c55\\u4ed9\\u6cd5\\u3001\\u9b3c\\u706b\\u3001\\u5929\\u9b54\\u3001\\u5206\\u5149\\u3001\\u9752\\u9762\\u3001\\u5c0f\\u697c\\u65f6\\u670914.21%\\u7684\\u51e0\\u7387\\u4e09\\u8fde\\u51fb#r#p56#n\\u589e\\u52a0\\u5ffd\\u89c6\\u98ce\\u3001\\u96f7\\u3001\\u6c34\\u3001\\u706b\\u3001\\u9b3c\\u706b7.98%\", \"Id\": 62102, \"Level\": 50956}], \"TiQiDan\": 0, \"Type\": 9222, \"GrowthRate\": 1175}]}",
+      "create_time_desc": "2022-03-22 14:36:24",
+      "storage_type": 4,
+      "create_time": "2022-03-22 14:36:24",
+      "equipid": 38810,
+      "allow_multi_order": true,
+      "has_trade_history": null,
+      "is_time_server": false,
+      "collect_num": 74,
+      "pass_fair_show": 1,
+      "appointed_roleid": null,
+      "poundage_list": [],
+      "alipay_info": {
+        "is_alipay_avail": false
+      },
+      "fair_show_end_time": "2022-03-23 14:36:24",
+      "platform_type": 1,
+      "level_desc": "3\u8f6c181\u7ea7",
+      "highlights": [
+        "\u73cd\u7a00\u795e\u517d",
+        "3\u4ef6\u56db\u9636\u4ed9\u5668"
+      ],
+      "min_buy_level": null,
+      "coupon_data": {},
+      "equip_detail_url": "https://dhxy.cbg.163.com/cgi/mweb/equip/89/202203181501816-89-JG4X2GDW0GWRX",
+      "kindid": 1,
+      "is_support_instalment": false,
+      "allow_fair_show_buy": false,
+      "equip_level": 3181,
+      "equip_lock_time_desc": "2022-06-24 10:29:58",
+      "icon": "/game_res/touxiang/2034.png",
+      "allow_taken_time": 1648017384,
+      "area_name": "\u5730\u754c",
+      "desc_sumup_short": "\u603b\u4fee\u4e3a114430 \u4ed9\u56684\u4ef6 \u73cd\u7a001\u53ea",
+      "status": 2,
+      "bargain_info": {
+        "avail_share_addon_times": 0,
+        "daily_bargain_limit": 10,
+        "bargain_times": 0,
+        "today_remain_bargain_count": 10,
+        "min_migrate_price": 0,
+        "bargain_count": 13,
+        "old_price": 490000,
+        "all_valid_bargain_user_num": 0,
+        "error": "\u5356\u5bb6\u62d2\u7edd\u8fd8\u4ef7",
+        "addon_bargain_times": 0
+      },
+      "cross_buy_serverid_list": [],
+      "equip_type": "1",
+      "price": 490000,
+      "other_info": {
+        "format_equip_name": "\u4e91\u4e2d\u541b",
+        "birth_place": "3111",
+        "level_desc": "3\u8f6c181\u7ea7",
+        "highlights": [
+          "\u73cd\u7a00\u795e\u517d",
+          "3\u4ef6\u56db\u9636\u4ed9\u5668"
+        ],
+        "desc_sumup": "\u603b\u4fee\u4e3a114430 \u4ed9\u56684\u4ef6 \u73cd\u7a001\u53ea",
+        "icon": "/game_res/touxiang/2034.png",
+        "basic_attrs": [
+          "\u603b\u4fee\u4e3a114430",
+          "\u4ed9\u56684\u4ef6",
+          "\u73cd\u7a001\u53ea"
+        ],
+        "desc_sumup_short": "\u603b\u4fee\u4e3a114430 \u4ed9\u56684\u4ef6 \u73cd\u7a001\u53ea"
+      },
+      "allow_appoint": false,
+      "status_desc": "\u4e0a\u67b6\u4e2d",
+      "equip_type_desc": "",
+      "allow_urs_bargain": false,
+      "open_fair_show_end_notice": false,
+      "expire_remain_seconds": 1208095,
+      "expire_time": "2022-07-08 10:04:54",
+      "serverid": 89,
+      "diy_desc": "",
+      "fair_show_poundage": 0,
+      "is_owner": false,
+      "diy_desc_pay_info": {
+        "is_show_agreement": false,
+        "is_need_pay": false,
+        "is_show_pay_agreement": false,
+        "is_pay_service": false,
+        "diy_desc_fee": 0
+      },
+      "seller_name": "\u3002\u9010\u6708\u3043",
+      "allow_cross_buy": false,
+      "equip_locked": false,
+      "server_name": "\u91d1\u6a3d\u660e\u6708(\u9010\u9e7f\u5929\u4e0b)",
+      "game_ordersn": "202203181501816-89-JG4X2GDW0GWRX",
+      "activity_info": "",
+      "equip_count": 1,
+      "equip_name": "\u3002\u9010\u6708\u3043",
+      "eid": "202203221401813-89-U6XBXGJL15J16",
+      "allow_bargain": false,
+      "birth_place": "3111",
+      "format_equip_name": "\u4e91\u4e2d\u541b",
+      "selling_time": "2022-06-24 10:04:54",
+      "game_channel": "netease"
+    },
+    "status_code": "OK",
+    "server_now_time": "2022-06-24 10:29:58"
+  }
+]
