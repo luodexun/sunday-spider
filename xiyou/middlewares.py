@@ -2,7 +2,8 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
+# import random
+from urllib import parse
 from scrapy import signals
 
 # useful for handling different item types with a single interface
@@ -71,12 +72,15 @@ class XiyouDownloaderMiddleware:
     def process_request(self, request, spider):
         # Called for each request that goes through the downloader
         # middleware.
-        proxyHost = "127.0.0.1"
-        proxyPort = "8888"
-
-
-
-        request.meta['proxy'] = "http://{0}:{1}".format(proxyHost, proxyPort)
+        # proxies = ["123.56.175.31:3128", "47.112.122.163:82", "120.42.46.226:6666"]
+        # proxyHost = "127.0.0.1"
+        # proxyPort = "8888"
+        if request.method == 'POST':
+            query = parse.parse_qsl(request.body)
+            request.headers['referer'] = 'https://dhxy.cbg.163.com/cgi/mweb/equip/{0}/{1}?{2}'.format(1, 2, 3)
+        print(request)
+        # request.meta['proxy'] = "http://{0}:{1}".format(proxyHost, proxyPort)
+        # request.meta['proxy'] = "http://{0}".format(random.choice(proxies))
 
         # Must either:
         # - return None: continue processing this request

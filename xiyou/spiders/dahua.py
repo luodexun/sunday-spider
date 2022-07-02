@@ -1,6 +1,8 @@
 import scrapy
-from scrapy import Request
-
+from scrapy import Request, FormRequest
+import uuid
+from urllib.parse import urlencode
+import time
 from ..items import XiyouItem
 import json
 import re
@@ -8,55 +10,104 @@ import re
 
 class DahuaSpider(scrapy.Spider):
     name = 'dahua'
+    query = {
+        "callback": "jQuery33108249397443390019_1656744548935",
+        "act": "recommd_by_role",
+        "search_type": "role",
+        "count": 15,
+        "client_type": "h5",
+        "view_loc": "equip_list",
+        "server_pay_type": 1,
+        "order_by": "",
+        "page": "1",
+        "page_session_id": "0181BDAF-FC43-411F-DA29-59624499F094",
+        "_": int(time.time() * 1000),
+    }
     allowed_domains = ['dhxy.cbg.163.com']
-    start_urls = [
-        'https://dhxy.cbg.163.com/cgi-bin/recommend.py?callback=jQuery33101968190463245152_1656036301854&act=recommd_by_role&search_type=role&count=15&client_type=h5&view_loc=equip_list&server_pay_type=1&order_by=&page=1&page_session_id=0181936C-322F-2CF3-74EE-D8065B36DCF4&_=1656036301855']
+    start_urls = ["https://dhxy.cbg.163.com/cgi-bin/recommend.py?{0}".format(urlencode(query))]
 
     def parse(self, response):
         items = []
-        res = re.search('\w+\((.+)\)', response.text)
-        text = res.group(1)
-        rs = json.loads(text)
+        template = re.search('\w+\((.+)\)', response.text)
+        res = json.loads(template.group(1))
         item = XiyouItem()
-        lists = rs['result']
+        lists = res['result']
         for element in lists:
-            item['price'] = element["price"]
-            yield Request(url='https://dhxy.cbg.163.com/cgi/api/get_equip_detail', method='post', callback=self.detail,meta = dict(item))
-        yield Request('https://dhxy.cbg.163.com/cgi-bin/recommend.py')
+            query = dict(
+                serverid=str(element['serverid']),
+                ordersn=element['game_ordersn'],
+                view_loc="equip_list | tag_key:{'tag': 'user'}",
+                exter="www.baidu.com",
+                page_session_id=str(uuid.uuid4()).encode("utf-8")
+            )
+            print(query)
+            yield scrapy.FormRequest(
+                "https://dhxy.cbg.163.com/cgi/api/get_equip_detail",
+                formdata=query,
+                callback=self.detail,
+                meta=item
+            )
+        pager = res['pager']
+        if pager['cur_page'] < pager['total_pages']:
+            query = {
+                "callback": "jQuery33108249397443390019_1656744548935",
+                "act": "recommd_by_role",
+                "search_type": "role",
+                "count": 15,
+                "client_type": "h5",
+                "view_loc": "equip_list",
+                "server_pay_type": 1,
+                "order_by": "",
+                "page": pager['cur_page']+1,
+                "page_session_id": "0181BDAF-FC43-411F-DA29-59624499F094",
+                "_": int(time.time() * 1000),
+            }
+            yield Request("https://dhxy.cbg.163.com/cgi-bin/recommend.py?{0}".format(urlencode(query)), callback=self.parse)
 
     def detail(self, response):
         item = response.meta
-        element = response['equip']
-        item['sellerRoleid'] = element["seller_roleid"]
-        item['level'] = element["level_desc"]
-        item['sellerName'] = element["seller_name"]
-        item['playName'] = element["format_equip_name"]
-        item['areaName'] = element["area_name"]
-        item['serverId'] = element["serverId"]
-        item['serverName'] = element["server_name"]
-        item['statusDesc'] = element["status_desc"]
-        item['cbgUrl'] = element["equip_detail_url"]
-        item['gameChannel'] = element["game_channel"]
-        item['umupShort'] = element["desc_sumup_short"]
-        desc = json.loads(['equip_desc'])
-        item['xiaYu'] = desc["XiaYi"]
-        item['silver'] = desc[""]
-        item['hp'] = desc["HpMax"]
-        item['mp'] = desc["MpMax"]
-        item['ap'] = desc[""]
-        item['sp'] = desc[""]
-        item['factionLevel'] = desc[""]
-        item['tianYanLevel'] = desc[""]
-        item['wuXingLevel'] = desc["WuXingLevel"]
-        item['fire'] = desc['WuXingInfo']["Fire"]
-        item['soil'] = desc['WuXingInfo']["Sater"]
-        item['water'] = desc['WuXingInfo']["Water"]
-        item['wood'] = desc['WuXingInfo']["Wood"]
-        item['gold'] = desc['WuXingInfo']["Gold"]
-        item['suitLevel'] = element[""]
-        item['suitName'] = desc[""]
-        item['status'] = element["status"]
-        item['statusCode'] = element[""]
-        item['createTime'] = element[""]
-        item['updateTime'] = element[""]
+        result = json.loads(response.body)
+        if result["status"] == 1:
+            item['status'] = result["status"]
+            item['statusCode'] = result["status_code"]
+            item['createTime'] = result["server_now_time"]
+            item['updateTime'] = result["server_now_time"]
+            element = result['equip']
+            if element is not None:
+                item['sellerRoleid'] = element["seller_roleid"]
+                item['cbgUrl'] = element["equip_detail_url"]
+                item['level'] = element["level_desc"]
+                item['sellerName'] = element["seller_name"]
+                item['statusDesc'] = element["status_desc"]
+                item['serverId'] = element["serverid"]
+                item['serverName'] = element["server_name"]
+                item['gameChannel'] = element["game_channel"]
+                item['price'] = element["price"] / 100
+                item['areaName'] = element["area_name"]
+                item['playName'] = element["format_equip_name"]
+                item['umupShort'] = element["desc_sumup_short"]
+                desc = json.loads(element['equip_desc'])
+                basic = desc["Basic"]
+                if basic is not None:
+                    item['xiaYu'] = basic["CbgXianYuFzn"]
+                    item['silver'] = basic["CbgYinLiangFzn"]
+                    item['wuXingLevel'] = basic["WuXingLevel"]
+                    item['hp'] = basic["HpMax"]
+                    item['mp'] = basic["HpMax"]
+                    item['ap'] = basic["Atk"]
+                    item['sp'] = basic["Speed"]
+                    item['factionLevel'] = basic["OrgShouHu"]
+                    item['tianYanLevel'] = basic["OrgTianFuTotalPoint"]
+                    item['fire'] = basic['WuXingInfo']["Fire"]
+                    item['soil'] = basic['WuXingInfo']["Soil"]
+                    item['water'] = basic['WuXingInfo']["Water"]
+                    item['wood'] = basic['WuXingInfo']["Wood"]
+                    item['gold'] = basic['WuXingInfo']["Gold"]
+                acsry = desc['SuitInfo']
+                if acsry and acsry is not None:
+                    item['suitLevel'] = acsry["Level"]
+                    item['suitName'] = acsry["Name"]
+                else:
+                    item['suitLevel'] = 0
+                    item['suitName'] = "暂无数据"
         yield item
